@@ -1,0 +1,138 @@
+*Vertices 53
+1 "Per0_0_INFORMATION-SYSTEMS" 0.0100 0.0100 0.5000 ic Blue bc Blue x_fact 7.0 y_fact 7.0
+2 "Per0_1_ENVIRONMENTAL-SUSTAINABILITY" 0.0100 0.0688 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+3 "Per0_2_CLOUD-COMPUTING" 0.0100 0.1276 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+4 "Per0_3_POWER-AWARE-COMPUTING" 0.0100 0.1865 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+5 "Per0_4_INFORMATION-COMMUNICATION-TECHNOLOGY" 0.0100 0.2453 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+6 "Per0_5_POWER-MANAGEMENT" 0.0100 0.3041 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+7 "Per0_6_POWER-CONSUMPTION" 0.0100 0.3629 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+8 "Per0_7_HOTSPOT-TARGETED-COOLING" 0.0100 0.4218 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+9 "Per0_8_GREEN-DATA-CENTER" 0.0100 0.4806 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+10 "Per0_9_TASK-SCHEDULING" 0.0100 0.5394 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+11 "Per0_10_ENVIRONMENTAL-PERFORMANCE" 0.0100 0.5982 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+12 "Per0_11_GRID-COMPUTING" 0.0100 0.6571 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+13 "Per0_12_WEARABLE-COMPUTING" 0.0100 0.7159 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+14 "Per0_13_CONTINUOUS-CONNECTIVITY" 0.0100 0.7747 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+15 "Per0_14_ENERGY-PROPORTIONAL-COMPUTING" 0.0100 0.8335 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+16 "Per0_15_RESPONSE-TIME" 0.0100 0.8924 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+17 "Per0_16_RENEWABLE-ENERGY" 0.0100 0.9512 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+18 "Per1_0_POWER-AWARE-COMPUTING" 0.3433 0.0100 0.5000 ic Blue bc Blue x_fact 6.0 y_fact 6.0
+19 "Per1_1_INFORMATION-SYSTEMS" 0.3433 0.0656 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+20 "Per1_2_VIRTUAL-MACHINES" 0.3433 0.1211 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+21 "Per1_3_TASK-SCHEDULING" 0.3433 0.1767 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+22 "Per1_4_ENERGY-EFFICIENT-COMPUTING" 0.3433 0.2322 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+23 "Per1_5_INFORMATION-COMMUNICATION-TECHNOLOGY" 0.3433 0.2878 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+24 "Per1_6_IOT" 0.3433 0.3433 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+25 "Per1_7_GREEN-COMPUTING" 0.3433 0.3989 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+26 "Per1_8_GREEN-DATA-CENTER" 0.3433 0.4544 0.5000 ic Blue bc Blue x_fact 4.0 y_fact 4.0
+27 "Per1_9_DYNAMIC-VOLTAGE-AND-FREQUENCY-SCALING" 0.3433 0.5100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+28 "Per1_10_ECO-INNOVATION" 0.3433 0.5656 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+29 "Per1_11_GREEN-SOFTWARE" 0.3433 0.6211 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+30 "Per1_12_MOBILE-EDGE-COMPUTING" 0.3433 0.6767 0.5000 ic Blue bc Blue x_fact 6.0 y_fact 6.0
+31 "Per1_13_NEURAL-NETWORKS" 0.3433 0.7322 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+32 "Per1_14_MATURITY-MODEL" 0.3433 0.7878 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+33 "Per1_15_PRIVACY" 0.3433 0.8433 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+34 "Per1_16_EVOLUTIONARY-ALGORITHMS" 0.3433 0.8989 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+35 "Per1_17_GENETIC-ALGORITHM" 0.3433 0.9544 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+36 "Per2_0_CLOUD-COMPUTING" 0.6767 0.0100 0.5000 ic Blue bc Blue x_fact 6.0 y_fact 6.0
+37 "Per2_1_GREEN-IT" 0.6767 0.0656 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+38 "Per2_2_COMPUTATIONAL-MODELING" 0.6767 0.1211 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+39 "Per2_3_ARTIFICIAL-INTELLIGENCE" 0.6767 0.1767 0.5000 ic Blue bc Blue x_fact 4.0 y_fact 4.0
+40 "Per2_4_GREEN-PRODUCTS" 0.6767 0.2322 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+41 "Per2_5_COMPUTER-ARCHITECTURE" 0.6767 0.2878 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+42 "Per2_6_INFORMATION-COMMUNICATION-TECHNOLOGY" 0.6767 0.3433 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+43 "Per2_7_RESOURCE-ALLOCATION" 0.6767 0.3989 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+44 "Per2_8_ENERGY-EFFICIENT-COMPUTING" 0.6767 0.4544 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+45 "Per2_9_EFFICIENCY" 0.6767 0.5100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+46 "Per2_10_DEEP-LEARNING" 0.6767 0.5656 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+47 "Per2_11_SECURITY" 0.6767 0.6211 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+48 "Per2_12_GREEN-DATA-CENTER" 0.6767 0.6767 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+49 "Per2_13_GENETIC-ALGORITHM" 0.6767 0.7322 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+50 "Per2_14_LOGIC-GATES" 0.6767 0.7878 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+51 "Per2_15_NEUROMORPHIC-COMPUTING" 0.6767 0.8433 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+52 "Per2_16_EDGE" 0.6767 0.8989 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+53 "Per2_17_ESTIMATION" 0.6767 0.9544 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+*edges
+1 19 2.5000 c Blue
+1 23 0.8333 c Gray95
+1 28 1.4286 c Gray95
+2 19 2.5000 c Blue
+3 18 0.8333 c Gray95
+3 20 5.8333 c Blue
+3 25 0.8333 c Blue
+3 26 0.8333 c Gray95
+3 35 3.3333 c Blue
+4 18 2.5000 c Blue
+5 19 0.9091 c Gray95
+5 23 1.8182 c Blue
+5 28 2.8571 c Gray95
+6 26 4.4444 c Blue
+6 34 3.3333 c Gray95
+7 18 1.4286 c Blue
+7 21 1.4286 c Gray95
+7 25 1.4286 c Gray95
+7 26 1.4286 c Gray95
+8 22 1.6667 c Blue
+9 20 1.6667 c Gray95
+9 22 1.6667 c Gray95
+9 26 1.6667 c Blue
+10 21 2.0000 c Blue
+10 26 2.0000 c Gray95
+10 27 2.0000 c Blue
+11 23 2.5000 c Blue
+12 18 2.5000 c Gray95
+12 25 2.5000 c Gray95
+12 27 2.5000 c Blue
+16 20 3.3333 c Gray95
+17 26 3.3333 c Blue
+18 40 0.8333 c Gray95
+18 43 0.8333 c Blue
+18 47 0.9091 c Gray95
+19 37 5.8333 c Blue
+19 42 0.8333 c Gray95
+20 36 5.0000 c Blue
+20 40 0.8333 c Gray95
+20 45 0.8333 c Gray95
+21 36 0.8333 c Blue
+21 38 2.5000 c Gray95
+21 40 0.8333 c Blue
+21 45 0.8333 c Gray95
+22 44 0.8333 c Blue
+22 50 1.6667 c Gray95
+23 39 0.8333 c Gray95
+23 40 0.8333 c Gray95
+23 42 2.5000 c Blue
+23 48 1.1111 c Gray95
+24 38 1.6667 c Blue
+24 39 1.6667 c Gray95
+24 40 1.6667 c Gray95
+24 41 0.8333 c Gray95
+24 50 1.6667 c Gray95
+24 52 2.5000 c Gray95
+25 36 2.5000 c Blue
+25 43 0.8333 c Gray95
+25 44 0.8333 c Gray95
+25 45 1.6667 c Blue
+25 48 1.1111 c Gray95
+26 40 0.8333 c Gray95
+26 45 0.8333 c Gray95
+26 46 0.8333 c Gray95
+26 48 2.2222 c Blue
+26 49 1.2500 c Gray95
+27 36 1.1111 c Gray95
+27 44 1.1111 c Blue
+27 49 1.2500 c Gray95
+28 37 1.4286 c Gray95
+29 37 1.4286 c Gray95
+29 40 1.4286 c Gray95
+29 47 2.8571 c Gray95
+30 43 5.0000 c Blue
+31 39 2.0000 c Blue
+31 41 2.0000 c Blue
+31 46 2.0000 c Blue
+32 37 2.5000 c Gray95
+33 47 5.0000 c Blue
+33 48 2.5000 c Gray95
+34 49 6.6667 c Blue
+35 47 3.3333 c Gray95
+35 49 6.6667 c Blue

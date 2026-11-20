@@ -1,0 +1,831 @@
+*vertices 347
+1 "ADVANTAGE" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+2 "ASSOCIATION" ic White bc Black x_fact 1.0 y_fact 1.0
+3 "BUSINESS" ic Red bc Red x_fact 2.0 y_fact 2.0
+4 "CAPABILITIES" ic White bc Black x_fact 1.0 y_fact 1.0
+5 "CARBON-FOOTPRINT" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+6 "CASE-STUDY" ic White bc Black x_fact 1.0 y_fact 1.0
+7 "CELLULAR-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+8 "CHALLENGES" ic White bc Black x_fact 1.0 y_fact 1.0
+9 "CIRCUITS" ic White bc Black x_fact 1.0 y_fact 1.0
+10 "CLOUD-DATA-CENTERS" ic White bc Black x_fact 1.0 y_fact 1.0
+11 "CO2-EMISSIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+12 "COMMUNICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+13 "COMMUNICATION-TECHNOLOGIES" ic White bc Black x_fact 1.0 y_fact 1.0
+14 "CONSUMERS" ic White bc Black x_fact 1.0 y_fact 1.0
+15 "DATA-CENTERS" ic Blue bc Blue x_fact 5.0 y_fact 5.0
+16 "DATA-CENTER-NETWORKS" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+17 "DEVELOPING-COUNTRIES" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+18 "DISTRIBUTED-CLOUD" ic White bc Black x_fact 1.0 y_fact 1.0
+19 "DISTRIBUTED-SYSTEMS" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+20 "EMERGING-TECHNOLOGIES" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+21 "ENERGY-CONSUMPTION" ic Fuchsia bc Fuchsia x_fact 2.0 y_fact 2.0
+22 "ENERGY-EFFICIENCY-MEASUREMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+23 "ENERGY-EFFICIENT-PROCESS-ALLOCATION-ALGORITHM" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+24 "ENERGY-SAVING" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+25 "ENVIRONMENTAL-IMPACT" ic White bc Black x_fact 1.0 y_fact 1.0
+26 "FILMS" ic White bc Black x_fact 1.0 y_fact 1.0
+27 "FILTERS" ic White bc Black x_fact 1.0 y_fact 1.0
+28 "GENETIC-ALGORITHM" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+29 "GREEN-COMMUNICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+30 "GREEN-DATA-CENTER" ic PineGreen bc PineGreen x_fact 2.0 y_fact 2.0
+31 "GREEN-INFORMATION-SYSTEMS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+32 "GREENHOUSE-GAS-EMISSIONS" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+33 "GRID" ic White bc Black x_fact 1.0 y_fact 1.0
+34 "HEURISTIC-ALGORITHMS" ic White bc Black x_fact 1.0 y_fact 1.0
+35 "INDICATORS" ic White bc Black x_fact 1.0 y_fact 1.0
+36 "INNOVATION" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+37 "INTENTION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+38 "IT-PROFESSIONALS" ic White bc Black x_fact 1.0 y_fact 1.0
+39 "LANGUAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+40 "METRICS" ic White bc Black x_fact 1.0 y_fact 1.0
+41 "MICROPROCESSOR" ic White bc Black x_fact 1.0 y_fact 1.0
+42 "MOTIVATION" ic White bc Black x_fact 1.0 y_fact 1.0
+43 "MULTICORE" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+44 "NEURAL-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+45 "OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+46 "ORGANIZATIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+47 "PATTERNS" ic White bc Black x_fact 1.0 y_fact 1.0
+48 "PERCEPTIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+49 "PERSPECTIVE" ic White bc Black x_fact 1.0 y_fact 1.0
+50 "PETRI-NET" ic White bc Black x_fact 1.0 y_fact 1.0
+51 "POLICY" ic White bc Black x_fact 1.0 y_fact 1.0
+52 "POLYMER" ic White bc Black x_fact 1.0 y_fact 1.0
+53 "POWER-CONSUMPTION-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+54 "POWER-MEASUREMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+55 "POWER-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+56 "POWER-OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+57 "POWER-SAVING" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+58 "PRACTICES" ic White bc Black x_fact 1.0 y_fact 1.0
+59 "PROCESSOR" ic White bc Black x_fact 1.0 y_fact 1.0
+60 "PROGRAMMING-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+61 "QUEUE" ic White bc Black x_fact 1.0 y_fact 1.0
+62 "RENEWABLE-ENERGY" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+63 "SCHEDULING-ALGORITHM" ic White bc Black x_fact 1.0 y_fact 1.0
+64 "SENSOR-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+65 "SERVERS" ic White bc Black x_fact 1.0 y_fact 1.0
+66 "SERVER-CLUSTER" ic White bc Black x_fact 1.0 y_fact 1.0
+67 "SERVICE" ic White bc Black x_fact 1.0 y_fact 1.0
+68 "SERVICE-LEVEL-AGREEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+69 "SIMULATION" ic White bc Black x_fact 1.0 y_fact 1.0
+70 "SMART-DEVICES" ic Red bc Red x_fact 1.0 y_fact 1.0
+71 "SMES" ic White bc Black x_fact 1.0 y_fact 1.0
+72 "STATE" ic White bc Black x_fact 1.0 y_fact 1.0
+73 "SUPPLY-CHAIN" ic White bc Black x_fact 1.0 y_fact 1.0
+74 "TASKS" ic White bc Black x_fact 1.0 y_fact 1.0
+75 "TECHNOLOGY" ic Red bc Red x_fact 2.0 y_fact 2.0
+76 "VIRTUAL-MACHINES" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+77 "VM-MIGRATION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+78 "GREEN-COMPUTING" ic Blue bc Blue x_fact 10.0 y_fact 10.0
+79 "ENERGY-EFFICIENCY" ic Blue bc Blue x_fact 7.0 y_fact 7.0
+80 "CLOUD-COMPUTING" ic Blue bc Blue x_fact 6.0 y_fact 6.0
+81 "GREEN-IT" ic Red bc Red x_fact 10.0 y_fact 10.0
+82 "GREEN-NETWORKING" ic White bc Black x_fact 1.0 y_fact 1.0
+83 "SUSTAINABLE-COMPUTING" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+84 "ENERGY-EFFICIENT-COMPUTING" ic Lavender bc Lavender x_fact 2.0 y_fact 2.0
+85 "CONSUMPTION" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+86 "RESOURCE-MANAGEMENT" ic Blue bc Blue x_fact 2.0 y_fact 2.0
+87 "RESOURCE-ALLOCATION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+88 "MACHINE-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
+89 "SUSTAINABLE-DEVELOPMENT" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+90 "EFFICIENCY" ic White bc Black x_fact 1.0 y_fact 1.0
+91 "BIG-DATA" ic White bc Black x_fact 1.0 y_fact 1.0
+92 "POWER-CONSUMPTION" ic GreenYellow bc GreenYellow x_fact 2.0 y_fact 2.0
+93 "ENVIRONMENTAL-SUSTAINABILITY" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+94 "GREEN-CLOUD-COMPUTING" ic RedViolet bc RedViolet x_fact 2.0 y_fact 2.0
+95 "GREEN-ICT" ic Pink bc Pink x_fact 3.0 y_fact 3.0
+96 "INFORMATION-SYSTEMS" ic Red bc Red x_fact 3.0 y_fact 3.0
+97 "SECURITY" ic White bc Black x_fact 1.0 y_fact 1.0
+98 "VIRTUALIZATION" ic Blue bc Blue x_fact 3.0 y_fact 3.0
+99 "ADOPTION" ic Red bc Red x_fact 1.0 y_fact 1.0
+100 "CONSOLIDATION" ic White bc Black x_fact 1.0 y_fact 1.0
+101 "INFORMATION" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+102 "SOFTWARE" ic White bc Black x_fact 1.0 y_fact 1.0
+103 "GREEN-SOFTWARE" ic White bc Black x_fact 1.0 y_fact 1.0
+104 "SOFTWARE-SUSTAINABILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+105 "POWER-MANAGEMENT" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+106 "PREDICTION" ic White bc Black x_fact 1.0 y_fact 1.0
+107 "RELIABILITY" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+108 "ENERGY-MANAGEMENT" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+109 "TASK-SCHEDULING" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+110 "QUALITY-OF-SERVICE" ic White bc Black x_fact 1.0 y_fact 1.0
+111 "PERFORMANCE-EVALUATION" ic White bc Black x_fact 1.0 y_fact 1.0
+112 "PLACEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+113 "SOFTWARE-ENGINEERING" ic White bc Black x_fact 1.0 y_fact 1.0
+114 "LOAD-BALANCING" ic White bc Black x_fact 1.0 y_fact 1.0
+115 "CLIMATE-CHANGE" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+116 "ROUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+117 "GOVERNANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+118 "TIME" ic White bc Black x_fact 1.0 y_fact 1.0
+119 "GREEN-IS" ic White bc Black x_fact 1.0 y_fact 1.0
+120 "VIRTUAL-MACHINE-PLACEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+121 "DYNAMIC-CONSOLIDATION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+122 "LOW-POWER" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+123 "ENERGY-OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+124 "ENVIRONMENTAL-PERFORMANCE" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+125 "REAL-TIME-SYSTEMS" ic Green bc Green x_fact 1.0 y_fact 1.0
+126 "CORPORATE-SOCIAL-RESPONSIBILITY" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+127 "FUTURE" ic White bc Black x_fact 1.0 y_fact 1.0
+128 "COMPUTATION" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+129 "SELECTION" ic White bc Black x_fact 1.0 y_fact 1.0
+130 "DECISION-MAKING" ic White bc Black x_fact 1.0 y_fact 1.0
+131 "GREEN-ENERGY" ic White bc Black x_fact 1.0 y_fact 1.0
+132 "ENERGY-CONSERVATION" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+133 "DYNAMICS" ic White bc Black x_fact 1.0 y_fact 1.0
+134 "PLANNED-BEHAVIOR" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+135 "SERVER-CONSOLIDATION" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+136 "VM-CONSOLIDATION" ic White bc Black x_fact 1.0 y_fact 1.0
+137 "ENERGY-AWARE" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+138 "ACCEPTANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+139 "KNOWLEDGE" ic White bc Black x_fact 1.0 y_fact 1.0
+140 "EVOLUTION" ic White bc Black x_fact 1.0 y_fact 1.0
+141 "FIRM-PERFORMANCE" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+142 "APPROXIMATE-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+143 "TEMPERATURE" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+144 "USER-ACCEPTANCE" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+145 "ENERGY-AWARE-SCHEDULING" ic White bc Black x_fact 1.0 y_fact 1.0
+146 "DISTRIBUTED-COMPUTING" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+147 "THERMAL-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+148 "SUPPLY-CHAIN-MANAGEMENT" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+149 "SLA" ic White bc Black x_fact 1.0 y_fact 1.0
+150 "COOLING" ic White bc Black x_fact 1.0 y_fact 1.0
+151 "E-WASTE" ic White bc Black x_fact 1.0 y_fact 1.0
+152 "RESOURCE-BASED-VIEW" ic White bc Black x_fact 1.0 y_fact 1.0
+153 "PERFORMANCE-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+154 "ETHERNET" ic White bc Black x_fact 1.0 y_fact 1.0
+155 "GPU" ic White bc Black x_fact 1.0 y_fact 1.0
+156 "BENEFITS" ic White bc Black x_fact 1.0 y_fact 1.0
+157 "IP" ic White bc Black x_fact 1.0 y_fact 1.0
+158 "MEASUREMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+159 "ENERGY-AWARENESS" ic White bc Black x_fact 1.0 y_fact 1.0
+160 "ENVIRONMENTAL-MANAGEMENT" ic Red bc Red x_fact 1.0 y_fact 1.0
+161 "DATA-MINING" ic White bc Black x_fact 1.0 y_fact 1.0
+162 "PARTICLE-SWARM-OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+163 "HEALTHCARE" ic White bc Black x_fact 1.0 y_fact 1.0
+164 "DIFFUSION" ic Red bc Red x_fact 1.0 y_fact 1.0
+165 "ECO-INNOVATION" ic White bc Black x_fact 1.0 y_fact 1.0
+166 "DYNAMIC-VOLTAGE-AND-FREQUENCY-SCALING" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+167 "REDUCTION" ic White bc Black x_fact 1.0 y_fact 1.0
+168 "THIN-FILMS" ic White bc Black x_fact 1.0 y_fact 1.0
+169 "MALACHITE-GREEN" ic White bc Black x_fact 1.0 y_fact 1.0
+170 "CORPORATE-SUSTAINABILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+171 "VOLTAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+172 "ECOLOGY" ic White bc Black x_fact 1.0 y_fact 1.0
+173 "RESEARCH-AND-DEVELOPMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+174 "MOBILE" ic White bc Black x_fact 1.0 y_fact 1.0
+175 "RESPONSIBILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+176 "ENERGY-AWARE-COMPUTING" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+177 "GRID-COMPUTING" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+178 "RECYCLING" ic White bc Black x_fact 1.0 y_fact 1.0
+179 "TECHNOLOGY-ACCEPTANCE-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+180 "MODELING" ic White bc Black x_fact 1.0 y_fact 1.0
+181 "ADAPTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+182 "POWER-EFFICIENCY" ic White bc Black x_fact 1.0 y_fact 1.0
+183 "SECTOR" ic White bc Black x_fact 1.0 y_fact 1.0
+184 "ABSORPTIVE-CAPACITY" ic Red bc Red x_fact 1.0 y_fact 1.0
+185 "BENCHMARKING" ic White bc Black x_fact 1.0 y_fact 1.0
+186 "MOBILE-CLOUD-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+187 "SRAM" ic White bc Black x_fact 1.0 y_fact 1.0
+188 "JOB-SCHEDULING" ic White bc Black x_fact 1.0 y_fact 1.0
+189 "POWER-AWARE-COMPUTING" ic Green bc Green x_fact 5.0 y_fact 5.0
+190 "RESOURCE-PROVISIONING" ic White bc Black x_fact 1.0 y_fact 1.0
+191 "VIRTUAL-NETWORK-EMBEDDING" ic White bc Black x_fact 1.0 y_fact 1.0
+192 "EXERGY" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+193 "SUSTAINABLE" ic White bc Black x_fact 1.0 y_fact 1.0
+194 "COMPLEXITY" ic White bc Black x_fact 1.0 y_fact 1.0
+195 "MOBILE-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+196 "SOCIAL-INFLUENCE" ic Red bc Red x_fact 1.0 y_fact 1.0
+197 "WIRELESS-SENSOR-NETWORKS-(WSNS)" ic White bc Black x_fact 1.0 y_fact 1.0
+198 "VALUES" ic White bc Black x_fact 1.0 y_fact 1.0
+199 "RFID" ic White bc Black x_fact 1.0 y_fact 1.0
+200 "ROOM-TEMPERATURE" ic White bc Black x_fact 1.0 y_fact 1.0
+201 "UBIQUITOUS-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+202 "DYNAMIC-POWER-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+203 "AUTO-SCALING" ic White bc Black x_fact 1.0 y_fact 1.0
+204 "ENVIRONMENTAL-PROTECTION" ic White bc Black x_fact 1.0 y_fact 1.0
+205 "WDM-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+206 "RESPONSE-TIME" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+207 "INSTITUTIONAL-THEORY" ic White bc Black x_fact 1.0 y_fact 1.0
+208 "JOINT-OPTIMIZATION" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+209 "STRUCTURAL-EQUATION-MODELING" ic White bc Black x_fact 1.0 y_fact 1.0
+210 "LOW-POWER-DESIGN" ic White bc Black x_fact 1.0 y_fact 1.0
+211 "HETEROGENEOUS-COMPUTING" ic Green bc Green x_fact 1.0 y_fact 1.0
+212 "ENVIRONMENTAL-POLICY" ic White bc Black x_fact 1.0 y_fact 1.0
+213 "DRAM" ic White bc Black x_fact 1.0 y_fact 1.0
+214 "IDLE" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+215 "THERMAL-AWARE" ic White bc Black x_fact 1.0 y_fact 1.0
+216 "GLOBAL-WARMING" ic White bc Black x_fact 1.0 y_fact 1.0
+217 "GREEN-METRICS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+218 "FUTURE-INTERNET" ic White bc Black x_fact 1.0 y_fact 1.0
+219 "POWER-MODELING" ic White bc Black x_fact 1.0 y_fact 1.0
+220 "EXPERIMENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+221 "CORPORATE" ic White bc Black x_fact 1.0 y_fact 1.0
+222 "ELECTRONIC-COMMERCE" ic White bc Black x_fact 1.0 y_fact 1.0
+223 "ECO-SUSTAINABILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+224 "SUSTAINABLE-IT" ic White bc Black x_fact 1.0 y_fact 1.0
+225 "E-COMMERCE" ic Red bc Red x_fact 1.0 y_fact 1.0
+226 "USAGE" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+227 "LITERATURE-REVIEW" ic White bc Black x_fact 1.0 y_fact 1.0
+228 "ENERGY-PERFORMANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+229 "DEMATERIALIZATION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+230 "DESIGN-SPACE-EXPLORATION" ic White bc Black x_fact 1.0 y_fact 1.0
+231 "AD-HOC" ic White bc Black x_fact 1.0 y_fact 1.0
+232 "DYNAMIC-VOLTAGE-SCALING" ic Green bc Green x_fact 1.0 y_fact 1.0
+233 "CLUSTER-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+234 "VOLUNTEER-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+235 "SOCIAL-RESPONSIBILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+236 "WORKLOAD-PLACEMENT" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+237 "TCP-INCAST" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+238 "ENERGY-EFFICIENT-COMPUTING-AND-NETWORKING" ic White bc Black x_fact 1.0 y_fact 1.0
+239 "PUE" ic White bc Black x_fact 1.0 y_fact 1.0
+240 "CULTURE" ic White bc Black x_fact 1.0 y_fact 1.0
+241 "THEORY" ic White bc Black x_fact 1.0 y_fact 1.0
+242 "USERS" ic White bc Black x_fact 1.0 y_fact 1.0
+243 "MOBILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+244 "AD-HOC-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+245 "VALUE-MODEL" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+246 "COMMITMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+247 "EQUIPMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+248 "INTRINSIC-MOTIVATION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+249 "ENERGY-EFFICIENT-RESOURCE-MANAGEMENT" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+250 "COMPUTING-ENVIRONMENTS" ic White bc Black x_fact 1.0 y_fact 1.0
+251 "CORE-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+252 "REVERSIBLE-LOGIC" ic White bc Black x_fact 1.0 y_fact 1.0
+253 "JUNCTIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+254 "NEW-ZEALAND" ic White bc Black x_fact 1.0 y_fact 1.0
+255 "NANOELECTRONICS" ic White bc Black x_fact 1.0 y_fact 1.0
+256 "INFORMATION-COMMUNICATION-TECHNOLOGY" ic Pink bc Pink x_fact 3.0 y_fact 3.0
+257 "WIFI" ic White bc Black x_fact 1.0 y_fact 1.0
+258 "ELECTRONICS-COOLING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+259 "OPTICAL-INTERCONNECTIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+260 "ANALYSIS" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+261 "INDEPENDENT-TASKS" ic White bc Black x_fact 1.0 y_fact 1.0
+262 "SENSITIVITY" ic White bc Black x_fact 1.0 y_fact 1.0
+263 "DIRECTED-ACYCLIC-GRAPH" ic White bc Black x_fact 1.0 y_fact 1.0
+264 "DVS" ic White bc Black x_fact 1.0 y_fact 1.0
+265 "DIGITAL-ECOSYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+266 "DISTRIBUTED-STORAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+267 "POWER-USAGE-EFFECTIVENESS-METRICS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+268 "THERMAL-STORAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+269 "ENERGY-INFORMATICS" ic White bc Black x_fact 1.0 y_fact 1.0
+270 "MANTYCHORE-FP7" ic White bc Black x_fact 1.0 y_fact 1.0
+271 "ENERGY-EFFICIENT-DESIGN" ic White bc Black x_fact 1.0 y_fact 1.0
+272 "MULTI-OBJECTIVE" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+273 "ENVIRONMENTAL-FACTORS" ic White bc Black x_fact 1.0 y_fact 1.0
+274 "RELEVANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+275 "TELECOMMUNICATIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+276 "STANDARDIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+277 "MULTILEVEL-THEORY" ic White bc Black x_fact 1.0 y_fact 1.0
+278 "OBJECTS" ic White bc Black x_fact 1.0 y_fact 1.0
+279 "COMPUTER-TECHNOLOGY" ic Red bc Red x_fact 1.0 y_fact 1.0
+280 "DYNAMIC-VOLTAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+281 "LARGE-SCALE-DISTRIBUTED-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+282 "COMPUTING-SERVICES" ic White bc Black x_fact 1.0 y_fact 1.0
+283 "THEORY-OF-REASONED-ACTION" ic White bc Black x_fact 1.0 y_fact 1.0
+284 "MANUFACTURING" ic White bc Black x_fact 1.0 y_fact 1.0
+285 "EXTERNAL-VARIABLES" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+286 "ENTERPRISE-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+287 "RESOURCE-BASED-PERSPECTIVE" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+288 "AMBIENT-INTELLIGENCE" ic White bc Black x_fact 1.0 y_fact 1.0
+289 "E-GOVERNANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+290 "ECO-EFFICIENCY" ic White bc Black x_fact 1.0 y_fact 1.0
+291 "ENERGY-AWARE-DATA-CENTRES" ic White bc Black x_fact 1.0 y_fact 1.0
+292 "GOVERNMENT-3.0" ic White bc Black x_fact 1.0 y_fact 1.0
+293 "VOLTAGE-SCALING" ic White bc Black x_fact 1.0 y_fact 1.0
+294 "LOCATION-BASED-SERVICE" ic White bc Black x_fact 1.0 y_fact 1.0
+295 "FAULT-TOLERANT-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+296 "US" ic White bc Black x_fact 1.0 y_fact 1.0
+297 "OPENMP" ic White bc Black x_fact 1.0 y_fact 1.0
+298 "REAL-TIME-SCHEDULING" ic Green bc Green x_fact 1.0 y_fact 1.0
+299 "OFDMA" ic White bc Black x_fact 1.0 y_fact 1.0
+300 "WEARABLE-COMPUTING" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+301 "SHUTDOWN" ic White bc Black x_fact 1.0 y_fact 1.0
+302 "ACTIVITY-RECOGNITION" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+303 "DYNAMIC-PROFILING" ic White bc Black x_fact 1.0 y_fact 1.0
+304 "HOTSPOT-TARGETED-COOLING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+305 "MICROCHANNEL-COOLING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+306 "MULTICORE-MICROPROCESSORS" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+307 "MICROCHANNEL-HEAT-SINK" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+308 "HETEROGENEOUS" ic White bc Black x_fact 1.0 y_fact 1.0
+309 "NUMERICAL-SIMULATION" ic White bc Black x_fact 1.0 y_fact 1.0
+310 "CONTINUOUS-CONNECTIVITY" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+311 "PERFORMANCE-METRICS" ic White bc Black x_fact 1.0 y_fact 1.0
+312 "ENERGY-ECONOMY" ic Green bc Green x_fact 1.0 y_fact 1.0
+313 "SMART-GRID-(SG)" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+314 "ENERGY-PROPORTIONAL-COMPUTING" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+315 "POWER-AWARE-SCHEDULING" ic White bc Black x_fact 1.0 y_fact 1.0
+316 "NON-LINEAR-PROGRAMMING" ic White bc Black x_fact 1.0 y_fact 1.0
+317 "VIRTUAL-DATACENTER" ic White bc Black x_fact 1.0 y_fact 1.0
+318 "HIGH-PERFORMANCE-COMPUTER-SYSTEMS" ic GreenYellow bc GreenYellow x_fact 2.0 y_fact 2.0
+319 "ENVIRONMENTAL-INFORMATION-SYSTEM" ic White bc Black x_fact 1.0 y_fact 1.0
+320 "CORPORATE-ENVIRONMENTAL-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+321 "POWER-ESTIMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+322 "DIGITAL-LIBRARIES" ic White bc Black x_fact 1.0 y_fact 1.0
+323 "BOOK-USAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+324 "DATACENTER-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+325 "MULTIPROCESSOR" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+326 "PERFORMANCE-MODELING" ic White bc Black x_fact 1.0 y_fact 1.0
+327 "DYNAMIC-POWER-AND-THERMAL-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+328 "PARALLEL-ALGORITHMS" ic White bc Black x_fact 1.0 y_fact 1.0
+329 "SUSTAINABILITY-REPORT" ic White bc Black x_fact 1.0 y_fact 1.0
+330 "VLSI-DESIGN" ic White bc Black x_fact 1.0 y_fact 1.0
+331 "SIGNAL-PROCESSING" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+332 "WIRELESS-COMMUNICATION-TECHNOLOGIES" ic White bc Black x_fact 1.0 y_fact 1.0
+333 "MULTICORE-PROCESSORS" ic White bc Black x_fact 1.0 y_fact 1.0
+334 "P2P" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+335 "TRANSMISSION-POWER-CONSUMPTION-(TPC)-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+336 "CYBER-PHYSICAL-SECURITY-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+337 "ACCURACY-AWARE-COMPUTING" ic Green bc Green x_fact 1.0 y_fact 1.0
+338 "MTCMOS-POWER-GATING" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+339 "PREEMPTABLE-JOBS" ic Green bc Green x_fact 1.0 y_fact 1.0
+340 "POWER-DISSIPATION" ic Green bc Green x_fact 1.0 y_fact 1.0
+341 "CACHE-STORAGE" ic Green bc Green x_fact 1.0 y_fact 1.0
+342 "CONJUGATE-GRADIENT-METHOD" ic White bc Black x_fact 1.0 y_fact 1.0
+343 "DENSE-LINEAR-ALGEBRA" ic White bc Black x_fact 1.0 y_fact 1.0
+344 "FEEDBACK-CONTROL" ic Green bc Green x_fact 1.0 y_fact 1.0
+345 "REAL-TIME-EMBEDDED-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+346 "UTILIZATION-CONTROL" ic Green bc Green x_fact 1.0 y_fact 1.0
+347 "IOT" ic White bc Black x_fact 1.0 y_fact 1.0
+*edges
+1 124 4.4444 c Magenta
+1 287 6.6667 c Magenta
+3 4 1.5385 c Black
+3 31 0.7692 c Black
+3 75 1.0684 c Red
+3 81 0.2517 c Red
+3 93 0.1619 c Black
+3 96 1.2040 c Red
+3 99 1.3846 c Red
+3 101 0.3846 c Black
+3 119 0.3419 c Black
+3 152 1.0256 c Black
+3 222 1.5385 c Black
+3 256 0.1338 c Black
+4 81 0.1818 c Black
+5 81 0.1818 c Black
+5 256 0.2174 c Pink
+6 81 0.0909 c Black
+6 96 0.4348 c Black
+6 117 2.5000 c Gray95
+7 29 6.6667 c Gray95
+7 79 0.1990 c Black
+8 81 0.0606 c Black
+10 78 0.2000 c Black
+11 15 0.1216 c Black
+11 21 0.4396 c Black
+11 78 0.1286 c Black
+11 79 0.1919 c Black
+11 81 0.1169 c Black
+13 81 0.1212 c Black
+15 21 0.1473 c Black
+15 40 0.3191 c Black
+15 62 0.2394 c Black
+15 65 0.2128 c Black
+15 69 0.1064 c Black
+15 76 0.3404 c Blue
+15 78 0.5447 c Blue
+15 79 0.8130 c Blue
+15 80 0.6319 c Blue
+15 81 0.2340 c Black
+15 86 0.1368 c Blue
+15 93 0.0448 c Black
+15 94 0.0709 c Black
+15 98 0.1773 c Blue
+15 105 0.0473 c Black
+15 109 0.0957 c Black
+15 111 0.0851 c Black
+15 112 0.4255 c Black
+15 121 0.1216 c Blue
+15 150 0.2837 c Black
+15 192 0.2128 c Black
+15 239 0.4255 c Black
+15 268 0.4255 c Black
+15 347 0.2837 c Black
+16 30 0.2721 c Black
+16 79 0.3412 c Black
+16 92 0.2857 c GreenYellow
+16 154 1.9048 c Black
+16 237 2.8571 c GreenYellow
+17 81 0.1818 c Black
+17 256 0.8696 c Pink
+19 23 2.8571 c GreenYellow
+19 78 0.0571 c Black
+19 81 0.1169 c Black
+19 92 0.2857 c GreenYellow
+19 189 0.2736 c Black
+19 334 4.2857 c GreenYellow
+20 81 0.0909 c Black
+20 256 0.4348 c Pink
+21 80 0.1049 c Black
+21 81 0.0280 c Black
+21 85 0.4396 c Black
+21 95 0.2564 c Black
+21 111 0.3077 c Black
+21 177 0.5128 c Fuchsia
+23 81 0.1818 c Black
+23 92 1.0000 c GreenYellow
+23 334 6.6667 c GreenYellow
+24 78 0.0667 c Black
+24 79 0.0995 c Black
+24 80 0.1010 c Black
+24 105 0.3704 c Dandelion
+28 80 0.3409 c Blue
+28 87 1.0000 c Blue
+29 79 0.2985 c Black
+30 79 0.4549 c Black
+30 81 0.1082 c Black
+30 98 0.2540 c Black
+30 107 0.2381 c PineGreen
+30 135 0.3175 c PineGreen
+30 214 0.4762 c Black
+30 217 0.6349 c PineGreen
+30 236 0.9524 c PineGreen
+30 267 0.9524 c PineGreen
+31 81 0.2045 c Black
+31 93 0.5263 c Yellow
+31 96 0.4348 c Black
+32 95 0.3704 c Pink
+32 115 2.0000 c Pink
+32 256 0.4348 c Pink
+34 78 0.1000 c Black
+34 188 5.0000 c Gray95
+36 42 0.9524 c Black
+36 75 0.1587 c Black
+36 81 0.2338 c Black
+36 93 0.1504 c Black
+36 96 0.2795 c Black
+36 119 0.3175 c Black
+36 256 0.1242 c Pink
+36 269 1.4286 c Black
+37 42 3.3333 c Black
+37 70 5.0000 c Black
+37 81 0.0909 c Black
+37 93 1.1842 c Yellow
+37 96 0.4348 c Black
+37 134 5.0000 c Yellow
+37 144 5.6250 c Yellow
+37 196 5.0000 c Black
+37 226 5.0000 c Yellow
+37 248 5.0000 c Yellow
+37 279 5.0000 c Black
+37 285 5.0000 c Yellow
+40 79 0.6219 c Black
+40 81 0.2424 c Black
+42 70 6.6667 c Black
+42 96 0.5797 c Black
+42 196 6.6667 c Black
+42 279 6.6667 c Black
+43 78 0.1286 c Black
+43 79 0.0853 c Black
+43 105 0.3175 c Dandelion
+43 128 2.8571 c Dandelion
+43 318 0.4082 c Black
+45 78 0.0571 c Black
+45 111 1.2857 c Gray95
+48 75 0.4444 c Black
+48 81 0.1636 c Black
+48 99 1.6000 c Black
+48 209 4.0000 c Gray95
+49 96 0.5797 c Black
+51 80 0.1212 c Black
+53 81 0.3636 c Black
+53 265 3.3333 c Gray95
+55 78 0.1000 c Black
+57 78 0.1000 c Black
+57 81 0.0909 c Black
+57 260 3.3333 c Salmon
+57 310 5.0000 c Salmon
+58 75 1.1111 c Black
+58 81 0.1818 c Black
+60 142 3.3333 c Gray95
+62 78 0.0500 c Black
+62 79 0.0746 c Black
+62 81 0.0455 c Black
+62 108 0.7143 c CornflowerBlue
+62 313 1.2500 c CornflowerBlue
+65 78 0.2250 c Black
+66 78 0.2250 c Black
+66 110 2.0000 c Gray95
+66 189 0.2128 c Black
+66 312 5.0000 c Black
+69 78 0.2000 c Black
+69 79 0.2985 c Black
+69 80 0.0758 c Black
+70 96 0.8696 c Red
+70 196 10.0000 c Red
+70 279 10.0000 c Red
+75 81 0.4091 c Red
+75 93 0.2632 c Black
+75 95 0.3292 c Black
+75 96 0.8696 c Red
+75 99 0.4444 c Red
+75 101 0.6250 c Black
+75 119 0.2469 c Black
+75 152 0.7407 c Black
+75 164 0.5556 c Red
+75 256 0.0966 c Black
+76 78 0.0900 c Blue
+76 80 0.5455 c Blue
+76 87 0.4000 c Blue
+76 94 0.3333 c Black
+76 98 0.1333 c Blue
+76 100 2.0000 c Black
+76 121 0.5714 c Blue
+76 149 0.6667 c Black
+77 78 0.0667 c Blue
+77 80 0.4040 c Blue
+77 81 0.0606 c Black
+77 98 0.2222 c Blue
+77 136 3.3333 c Black
+78 79 0.4836 c Blue
+78 80 1.1879 c Blue
+78 81 0.0582 c Black
+78 86 0.1143 c Blue
+78 87 0.1600 c Blue
+78 92 0.0800 c Black
+78 93 0.0474 c Black
+78 98 0.4033 c Blue
+78 105 0.1389 c Black
+78 106 0.1000 c Black
+78 109 0.2450 c Black
+78 111 0.1600 c Black
+78 112 0.2000 c Black
+78 113 0.1333 c Black
+78 121 0.1286 c Blue
+78 122 0.0571 c Black
+78 136 0.2000 c Black
+78 137 0.1286 c Black
+78 143 0.1333 c Black
+78 149 0.0667 c Black
+78 155 0.1778 c Black
+78 158 0.1000 c Black
+78 159 0.1333 c Black
+78 162 0.1000 c Black
+78 166 0.0400 c Black
+78 182 0.1333 c Black
+78 191 0.1000 c Black
+78 192 0.2250 c Black
+78 232 0.0818 c Black
+78 233 0.3000 c Black
+78 239 0.2000 c Black
+78 249 0.1333 c Blue
+78 281 0.2000 c Black
+78 286 0.2000 c Black
+78 294 0.2000 c Black
+78 301 0.2000 c Black
+78 303 0.2000 c Black
+78 317 0.1800 c Black
+78 318 0.0643 c Black
+79 80 0.4432 c Blue
+79 81 0.3474 c Black
+79 82 0.3358 c Black
+79 86 0.2665 c Blue
+79 92 0.3657 c Black
+79 93 0.0707 c Black
+79 94 0.3109 c Black
+79 95 0.0884 c Black
+79 96 0.0260 c Black
+79 98 0.4030 c Blue
+79 103 0.1493 c Black
+79 105 0.2073 c Black
+79 109 0.1194 c Black
+79 120 0.2985 c Black
+79 129 0.1493 c Black
+79 143 0.4478 c Black
+79 154 0.1990 c Black
+79 158 0.1493 c Black
+79 167 0.1990 c Black
+79 191 0.1493 c Black
+79 192 0.1493 c Black
+79 214 0.3358 c Black
+79 237 0.2985 c Black
+79 281 0.2985 c Black
+79 317 0.2687 c Black
+79 318 0.0426 c Black
+79 347 0.1990 c Black
+80 81 0.1983 c Black
+80 84 0.0319 c Black
+80 86 0.8766 c Blue
+80 87 0.7424 c Blue
+80 95 0.0224 c Black
+80 98 1.1364 c Blue
+80 100 0.3030 c Black
+80 105 0.0758 c Black
+80 109 0.0682 c Black
+80 111 0.1364 c Black
+80 112 0.3030 c Black
+80 114 0.1515 c Black
+80 121 0.5411 c Blue
+80 136 0.3030 c Black
+80 149 0.2273 c Black
+80 176 0.0909 c Black
+80 186 0.2727 c Black
+80 191 0.1515 c Black
+80 203 0.3030 c Black
+80 232 0.0551 c Black
+80 238 0.2020 c Black
+80 249 0.4545 c Blue
+80 250 0.3030 c Black
+80 266 0.3030 c Black
+80 291 0.2020 c Black
+80 301 0.3030 c Black
+81 86 0.1039 c Black
+81 89 0.3636 c Black
+81 92 0.1136 c Black
+81 93 0.9378 c Black
+81 96 0.8893 c Red
+81 98 0.4364 c Black
+81 99 0.2909 c Red
+81 101 0.1023 c Black
+81 103 0.1616 c Black
+81 104 0.1818 c Black
+81 105 0.0202 c Black
+81 111 0.0364 c Black
+81 115 0.2909 c Black
+81 119 0.6465 c Black
+81 121 0.1169 c Black
+81 124 0.1212 c Black
+81 126 0.1818 c Black
+81 130 0.1818 c Black
+81 134 0.1818 c Black
+81 135 0.0606 c Black
+81 139 0.2424 c Black
+81 144 0.2045 c Black
+81 160 0.1636 c Red
+81 164 0.0909 c Red
+81 166 0.0364 c Black
+81 179 0.1818 c Black
+81 184 0.1818 c Red
+81 207 0.1818 c Black
+81 209 0.1818 c Black
+81 216 0.0909 c Black
+81 217 0.1212 c Black
+81 223 0.1818 c Black
+81 224 0.1818 c Black
+81 225 0.1818 c Red
+81 226 0.1818 c Black
+81 227 0.1818 c Black
+81 245 0.1818 c Black
+81 246 0.1818 c Black
+81 250 0.1818 c Black
+81 256 0.5692 c Black
+81 260 0.1212 c Black
+81 265 0.2727 c Black
+81 267 0.1818 c Black
+81 277 0.1818 c Black
+81 285 0.1818 c Black
+81 310 0.1818 c Black
+81 318 0.0584 c Black
+81 319 0.1818 c Black
+81 320 0.1212 c Black
+81 334 0.2727 c Black
+82 191 2.5000 c Gray95
+83 105 0.2469 c Dandelion
+84 258 0.7018 c Lavender
+84 304 1.0526 c Lavender
+84 305 1.0526 c Lavender
+84 306 1.0526 c Lavender
+84 307 1.0526 c Lavender
+84 318 0.1504 c Black
+85 105 0.3175 c Dandelion
+85 206 1.9048 c Black
+85 208 2.8571 c Black
+86 98 0.5952 c Blue
+86 121 0.9184 c Blue
+86 250 1.4286 c Black
+89 93 0.5263 c Yellow
+89 96 0.1932 c Black
+89 119 0.4938 c Black
+89 256 0.1932 c Black
+89 320 1.4815 c Black
+90 95 0.1481 c Black
+92 95 0.1667 c Black
+92 98 0.0667 c Black
+92 176 0.1333 c Black
+92 237 1.0000 c GreenYellow
+92 318 0.3214 c GreenYellow
+92 334 0.6667 c GreenYellow
+93 96 0.3661 c Black
+93 101 0.2632 c Black
+93 134 1.0526 c Yellow
+93 144 1.1842 c Yellow
+93 192 0.5263 c Yellow
+93 226 1.0526 c Yellow
+93 229 0.7018 c Yellow
+93 245 1.0526 c Yellow
+93 248 1.0526 c Yellow
+93 256 0.2059 c Black
+93 285 1.0526 c Yellow
+94 149 0.5556 c Black
+94 206 1.1111 c RedViolet
+95 101 0.1852 c Black
+95 165 0.4938 c Black
+95 247 0.7407 c Black
+95 256 0.4026 c Pink
+95 270 0.7407 c Black
+96 99 0.7826 c Red
+96 119 0.4348 c Black
+96 126 0.4891 c Black
+96 160 0.7826 c Red
+96 164 0.9783 c Red
+96 184 0.8696 c Red
+96 196 0.8696 c Red
+96 225 0.8696 c Red
+96 256 0.1701 c Black
+96 279 0.8696 c Red
+97 197 6.6667 c Gray95
+98 121 0.4286 c Blue
+98 135 0.8889 c Black
+98 250 0.6667 c Black
+99 209 4.0000 c Black
+101 124 1.6667 c Magenta
+103 104 2.2222 c Gray95
+105 128 1.1111 c Dandelion
+105 143 0.7407 c Dandelion
+105 176 0.1481 c Dandelion
+105 214 0.5556 c Dandelion
+107 189 0.1064 c Black
+107 220 0.8333 c Black
+109 125 0.2000 c Black
+109 137 0.2857 c Peach
+109 166 0.2000 c Peach
+109 176 0.1333 c Black
+109 189 0.0957 c Black
+109 232 0.1818 c Black
+109 272 1.0000 c Peach
+109 325 1.0000 c Peach
+110 189 0.1702 c Black
+110 312 4.0000 c Black
+111 189 0.1915 c Black
+115 256 0.7826 c Pink
+119 223 2.2222 c Gray95
+121 250 2.8571 c Black
+122 314 1.4286 c Mulberry
+124 287 6.6667 c Magenta
+125 189 1.3617 c Green
+125 232 0.8182 c Green
+126 246 2.5000 c Black
+126 256 0.2174 c Pink
+126 277 2.5000 c Black
+132 177 0.9524 c Fuchsia
+132 189 0.1216 c Black
+132 318 0.4082 c Black
+134 144 5.0000 c Yellow
+134 226 10.0000 c Yellow
+134 285 10.0000 c Yellow
+141 256 0.8696 c Pink
+144 179 5.0000 c Black
+144 226 5.0000 c Yellow
+144 248 5.0000 c Yellow
+144 285 5.0000 c Yellow
+146 177 1.3333 c Fuchsia
+146 189 0.1702 c Black
+148 256 0.5797 c Pink
+154 214 3.3333 c Black
+155 230 2.2222 c Gray95
+160 256 0.3478 c Black
+164 274 5.0000 c Black
+166 189 0.1915 c Black
+176 342 1.3333 c Black
+177 318 1.0714 c Black
+178 212 6.6667 c Gray95
+189 195 0.2128 c Black
+189 211 0.2837 c Green
+189 220 0.1418 c Black
+189 232 0.4836 c Green
+189 298 0.4255 c Green
+189 312 0.4255 c Green
+189 318 0.2432 c Black
+189 337 0.4255 c Green
+189 339 0.4255 c Green
+189 340 0.4255 c Green
+189 341 0.4255 c Green
+189 344 0.4255 c Green
+189 345 0.2837 c Black
+189 346 0.4255 c Green
+196 279 10.0000 c Red
+206 208 6.6667 c RedViolet
+226 285 10.0000 c Yellow
+232 261 1.2121 c Black
+238 291 10.0000 c Gray95
+246 277 10.0000 c Gray95
+258 304 6.6667 c Lavender
+258 305 6.6667 c Lavender
+258 306 6.6667 c Lavender
+258 307 6.6667 c Lavender
+260 310 6.6667 c Salmon
+300 302 10.0000 c Bittersweet
+300 331 10.0000 c Bittersweet
+302 331 10.0000 c Bittersweet
+304 305 10.0000 c Lavender
+304 306 10.0000 c Lavender
+304 307 10.0000 c Lavender
+305 306 10.0000 c Lavender
+305 307 10.0000 c Lavender
+306 307 10.0000 c Lavender
+308 318 0.9524 c Black
+314 338 5.0000 c Mulberry
+322 323 10.0000 c Gray95
+344 345 6.6667 c Black
+344 346 10.0000 c Green
+345 346 6.6667 c Black

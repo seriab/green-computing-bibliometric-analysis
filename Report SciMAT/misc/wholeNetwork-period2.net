@@ -1,0 +1,2389 @@
+*vertices 244
+1 "ACCELERATOR" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+2 "ARRAYS" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+3 "BATTERIES" ic BlueGreen bc BlueGreen x_fact 1.0 y_fact 1.0
+4 "BELIEF" ic White bc Black x_fact 1.0 y_fact 1.0
+5 "BLOCKCHAIN" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+6 "BUSINESS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+7 "CARBON-FOOTPRINT" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+8 "CHALLENGES" ic Fuchsia bc Fuchsia x_fact 2.0 y_fact 2.0
+9 "CIRCUITS" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+10 "CIRCULAR-ECONOMY" ic White bc Black x_fact 1.0 y_fact 1.0
+11 "CITIES" ic White bc Black x_fact 1.0 y_fact 1.0
+12 "CLOUD-DATA-CENTERS" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+13 "CO2-EMISSIONS" ic GreenYellow bc GreenYellow x_fact 3.0 y_fact 3.0
+14 "COMMUNICATION" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+15 "CONTAINERS" ic White bc Black x_fact 1.0 y_fact 1.0
+16 "CONVOLUTIONAL-NEURAL-NETWORKS" ic Magenta bc Magenta x_fact 2.0 y_fact 2.0
+17 "DATA-CENTERS" ic Red bc Red x_fact 6.0 y_fact 6.0
+18 "DEEP-NEURAL-NETWORKS" ic White bc Black x_fact 1.0 y_fact 1.0
+19 "DELAYS" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+20 "DEMAND" ic White bc Black x_fact 1.0 y_fact 1.0
+21 "DEVICES" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+22 "DIGITAL-TWIN" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+23 "EDGE" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+24 "EMERGING-TECHNOLOGIES" ic White bc Black x_fact 1.0 y_fact 1.0
+25 "EMISSIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+26 "ENERGY-CONSUMPTION" ic Red bc Red x_fact 6.0 y_fact 6.0
+27 "ENERGY-SAVING" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+28 "ENVIRONMENTAL-IMPACT" ic White bc Black x_fact 1.0 y_fact 1.0
+29 "ETHICS" ic Green bc Green x_fact 2.0 y_fact 2.0
+30 "EVOLUTIONARY-ALGORITHMS" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+31 "FIELD-EFFECT-TRANSISTORS" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+32 "FPGA" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+33 "GENETIC-ALGORITHM" ic Salmon bc Salmon x_fact 2.0 y_fact 2.0
+34 "GREEN-DATA-CENTER" ic Bittersweet bc Bittersweet x_fact 2.0 y_fact 2.0
+35 "GREENHOUSE-GAS-EMISSIONS" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+36 "HEURISTIC-ALGORITHMS" ic Red bc Red x_fact 2.0 y_fact 2.0
+37 "INNOVATION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+38 "INTEGRATED-CIRCUITS" ic BlueGreen bc BlueGreen x_fact 1.0 y_fact 1.0
+39 "MACHINE" ic White bc Black x_fact 1.0 y_fact 1.0
+40 "MATHEMATICAL-MODELS" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+41 "NEURAL-NETWORKS" ic Dandelion bc Dandelion x_fact 3.0 y_fact 3.0
+42 "NEURONS" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+43 "NONVOLATILE-MEMORY" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+44 "OPTIMIZATION" ic Red bc Red x_fact 6.0 y_fact 6.0
+45 "ORGANIZATIONS" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+46 "PERSPECTIVE" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+47 "POLICY" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+48 "PROCESSOR" ic White bc Black x_fact 1.0 y_fact 1.0
+49 "PROTOCOL" ic White bc Black x_fact 1.0 y_fact 1.0
+50 "RANDOM-ACCESS-MEMORY" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+51 "RENEWABLE-ENERGY" ic Pink bc Pink x_fact 3.0 y_fact 3.0
+52 "REQUIREMENTS" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+53 "RISK" ic White bc Black x_fact 1.0 y_fact 1.0
+54 "SENSORS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+55 "SERVERS" ic Blue bc Blue x_fact 2.0 y_fact 2.0
+56 "SERVICE" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+57 "SIMULATION" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+58 "SMART-CITIES" ic White bc Black x_fact 1.0 y_fact 1.0
+59 "SPIKING-NEURAL-NETWORKS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+60 "SPIN-ORBIT-TORQUE" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+61 "SPINTRONICS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+62 "STANDARDS" ic White bc Black x_fact 1.0 y_fact 1.0
+63 "SUSTAINABLE-DATA-CENTERS" ic White bc Black x_fact 1.0 y_fact 1.0
+64 "SUSTAINABLE-DEVELOPMENT-GOALS" ic Green bc Green x_fact 1.0 y_fact 1.0
+65 "SWITCHES" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+66 "SYSTEMATIC-LITERATURE-REVIEW" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+67 "TECHNOLOGY" ic Green bc Green x_fact 3.0 y_fact 3.0
+68 "TRANSFORMER" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+69 "UNMANNED-AERIAL-VEHICLES" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+70 "VIRTUAL-MACHINES" ic Red bc Red x_fact 1.0 y_fact 1.0
+71 "VM-MIGRATION" ic White bc Black x_fact 1.0 y_fact 1.0
+72 "GREEN-COMPUTING" ic Red bc Red x_fact 10.0 y_fact 10.0
+73 "ENERGY-EFFICIENCY" ic Red bc Red x_fact 10.0 y_fact 10.0
+74 "CLOUD-COMPUTING" ic Red bc Red x_fact 7.0 y_fact 7.0
+75 "GREEN-IT" ic Yellow bc Yellow x_fact 5.0 y_fact 5.0
+76 "ARTIFICIAL-INTELLIGENCE" ic Green bc Green x_fact 10.0 y_fact 10.0
+77 "SUSTAINABLE-COMPUTING" ic Magenta bc Magenta x_fact 4.0 y_fact 4.0
+78 "ENERGY-EFFICIENT-COMPUTING" ic PineGreen bc PineGreen x_fact 3.0 y_fact 3.0
+79 "CONSUMPTION" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+80 "RESOURCE-MANAGEMENT" ic Red bc Red x_fact 3.0 y_fact 3.0
+81 "GREEN-AI" ic Green bc Green x_fact 5.0 y_fact 5.0
+82 "RESOURCE-ALLOCATION" ic Lavender bc Lavender x_fact 2.0 y_fact 2.0
+83 "MACHINE-LEARNING" ic Green bc Green x_fact 4.0 y_fact 4.0
+84 "SUSTAINABLE-DEVELOPMENT" ic Green bc Green x_fact 3.0 y_fact 3.0
+85 "GREEN-IOT" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+86 "EFFICIENCY" ic Peach bc Peach x_fact 3.0 y_fact 3.0
+87 "BIG-DATA" ic Green bc Green x_fact 2.0 y_fact 2.0
+88 "POWER-CONSUMPTION" ic White bc Black x_fact 1.0 y_fact 1.0
+89 "ENVIRONMENTAL-SUSTAINABILITY" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+90 "GREEN-CLOUD-COMPUTING" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+91 "GREEN-ICT" ic GreenYellow bc GreenYellow x_fact 2.0 y_fact 2.0
+92 "DEEP-LEARNING" ic Magenta bc Magenta x_fact 3.0 y_fact 3.0
+93 "INFORMATION-SYSTEMS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+94 "SECURITY" ic Fuchsia bc Fuchsia x_fact 2.0 y_fact 2.0
+95 "EDGE-COMPUTING" ic Blue bc Blue x_fact 3.0 y_fact 3.0
+96 "VIRTUALIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+97 "COMPUTATIONAL-MODELING" ic Blue bc Blue x_fact 3.0 y_fact 3.0
+98 "ADOPTION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+99 "CONSOLIDATION" ic Red bc Red x_fact 2.0 y_fact 2.0
+100 "GREEN-PRODUCTS" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+101 "INFORMATION" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+102 "SOFTWARE" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+103 "GREEN-SOFTWARE" ic White bc Black x_fact 2.0 y_fact 2.0
+104 "SOFTWARE-SUSTAINABILITY" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+105 "POWER-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+106 "PREDICTION" ic Bittersweet bc Bittersweet x_fact 2.0 y_fact 2.0
+107 "ENERGY-HARVESTING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+108 "SUSTAINABLE-AI" ic Green bc Green x_fact 3.0 y_fact 3.0
+109 "RELIABILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+110 "ENERGY-MANAGEMENT" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+111 "TASK-SCHEDULING" ic Red bc Red x_fact 2.0 y_fact 2.0
+112 "TASK-ANALYSIS" ic Blue bc Blue x_fact 2.0 y_fact 2.0
+113 "QUALITY-OF-SERVICE" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+114 "NEUROMORPHIC-COMPUTING" ic RedViolet bc RedViolet x_fact 2.0 y_fact 2.0
+115 "AWARE" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+116 "COMPUTER-ARCHITECTURE" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+117 "PERFORMANCE-EVALUATION" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+118 "PRIVACY" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+119 "PLACEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+120 "SOFTWARE-ENGINEERING" ic White bc Black x_fact 1.0 y_fact 1.0
+121 "SCHEME" ic White bc Black x_fact 1.0 y_fact 1.0
+122 "CLASSIFICATION" ic Magenta bc Magenta x_fact 2.0 y_fact 2.0
+123 "LOAD-BALANCING" ic White bc Black x_fact 1.0 y_fact 1.0
+124 "CLIMATE-CHANGE" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+125 "ROUTING" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+126 "GOVERNANCE" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+127 "TIME" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+128 "GREEN-IS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+129 "VIRTUAL-MACHINE-PLACEMENT" ic Red bc Red x_fact 1.0 y_fact 1.0
+130 "REINFORCEMENT-LEARNING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+131 "ECONOMIC-GROWTH" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+132 "5G" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+133 "LOW-POWER" ic White bc Black x_fact 1.0 y_fact 1.0
+134 "ENERGY-OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+135 "ENVIRONMENTAL-PERFORMANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+136 "REAL-TIME-SYSTEMS" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+137 "QUALITY" ic White bc Black x_fact 1.0 y_fact 1.0
+138 "FEDERATED-LEARNING" ic Fuchsia bc Fuchsia x_fact 2.0 y_fact 2.0
+139 "DETERMINANTS" ic White bc Black x_fact 1.0 y_fact 1.0
+140 "CORPORATE-SOCIAL-RESPONSIBILITY" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+141 "GROWTH" ic White bc Black x_fact 1.0 y_fact 1.0
+142 "FUTURE" ic White bc Black x_fact 1.0 y_fact 1.0
+143 "COMPUTATION" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+144 "SELECTION" ic White bc Black x_fact 1.0 y_fact 1.0
+145 "POWER-DEMAND" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+146 "DECISION-MAKING" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+147 "GREEN-ENERGY" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+148 "DYNAMICS" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+149 "FOG-COMPUTING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+150 "CHINA" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+151 "INTEGRATION" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+152 "STORAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+153 "PLANNED-BEHAVIOR" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+154 "RENEWABLE-ENERGY-SOURCES" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+155 "VM-CONSOLIDATION" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+156 "LOGIC-GATES" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+157 "ACCEPTANCE" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+158 "COLLABORATION" ic White bc Black x_fact 1.0 y_fact 1.0
+159 "DYNAMIC-SCHEDULING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+160 "DEEP-REINFORCEMENT-LEARNING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+161 "FIRM-PERFORMANCE" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+162 "ACCURACY" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+163 "APPROXIMATE-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+164 "SCALABILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+165 "USER-ACCEPTANCE" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+166 "FEATURE-EXTRACTION" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+167 "THERMAL-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+168 "COOLING" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+169 "E-WASTE" ic BlueGreen bc BlueGreen x_fact 1.0 y_fact 1.0
+170 "GENERATION" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+171 "ENERGY-STORAGE" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+172 "PROCESSOR-SCHEDULING" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+173 "GPU" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+174 "LIFE-CYCLE-ASSESSMENT" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+175 "MINIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+176 "WASTE-HEAT-RECOVERY" ic White bc Black x_fact 1.0 y_fact 1.0
+177 "MEASUREMENT" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+178 "VISUALIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+179 "TRUST" ic White bc Black x_fact 1.0 y_fact 1.0
+180 "DATA-MINING" ic White bc Black x_fact 1.0 y_fact 1.0
+181 "COMPUTATION-OFFLOADING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+182 "PARTICLE-SWARM-OPTIMIZATION" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+183 "TASK-OFFLOADING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+184 "HEALTHCARE" ic Green bc Green x_fact 1.0 y_fact 1.0
+185 "RECOGNITION" ic White bc Black x_fact 1.0 y_fact 1.0
+186 "6G" ic White bc Black x_fact 1.0 y_fact 1.0
+187 "AI-ETHICS" ic Green bc Green x_fact 2.0 y_fact 2.0
+188 "ESTIMATION" ic BlueGreen bc BlueGreen x_fact 1.0 y_fact 1.0
+189 "MOBILE-EDGE-COMPUTING" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+190 "FOOTPRINT" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+191 "SUSTAINABLE-CLOUD-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+192 "COMPUTER-VISION" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+193 "VISION" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+194 "MAKESPAN" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+195 "KNOWLEDGE-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+196 "DYNAMIC-VOLTAGE-AND-FREQUENCY-SCALING" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+197 "GENERATIVE-AI" ic White bc Black x_fact 1.0 y_fact 1.0
+198 "QUANTUM-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+199 "ANALYTICAL-MODELS" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+200 "TRANSPORT" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+201 "SILICON" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+202 "VOLTAGE" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+203 "PSO" ic White bc Black x_fact 1.0 y_fact 1.0
+204 "EXPLAINABLE-AI" ic Green bc Green x_fact 1.0 y_fact 1.0
+205 "PARALLEL-COMPUTING" ic White bc Black x_fact 1.0 y_fact 1.0
+206 "CONTEXT" ic White bc Black x_fact 1.0 y_fact 1.0
+207 "WORKFLOW-SCHEDULING" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+208 "ENERGY-AWARE-COMPUTING" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+209 "INDUSTRY-4.0" ic White bc Black x_fact 1.0 y_fact 1.0
+210 "RESISTANCE" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+211 "TECHNOLOGY-ACCEPTANCE-MODEL" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+212 "AGRICULTURE" ic White bc Black x_fact 1.0 y_fact 1.0
+213 "FINANCIAL-DEVELOPMENT" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+214 "PREDICTIVE-MODELS" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+215 "SYSTEM-ON-CHIP" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+216 "BIBLIOMETRIC-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+217 "BIOLOGICAL-SYSTEM-MODELING" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+218 "LOAD-MODELING" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+219 "DIGITAL-TRANSFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+220 "QUANTIZATION" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+221 "BENCHMARKING" ic White bc Black x_fact 1.0 y_fact 1.0
+222 "COMMON-INFORMATION-MODEL-(COMPUTING)" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+223 "HIGHER-EDUCATION" ic White bc Black x_fact 1.0 y_fact 1.0
+224 "WIRELESS-SENSOR-NETWORKS-(WSNS)" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+225 "CYBERSECURITY" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+226 "COMPUTATIONAL-EFFICIENCY" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+227 "CHIP" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+228 "TOE" ic White bc Black x_fact 1.0 y_fact 1.0
+229 "LONG-SHORT-TERM-MEMORY" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+230 "2-DIMENSIONAL-MATERIALS" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+231 "COMPUTING-IN-MEMORY-(CIM)" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+232 "ANALYTIC-HIERARCHY-PROCESS" ic White bc Black x_fact 1.0 y_fact 1.0
+233 "META-HEURISTIC" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+234 "MRAM" ic White bc Black x_fact 1.0 y_fact 1.0
+235 "INFORMATION-COMMUNICATION-TECHNOLOGY" ic GreenYellow bc GreenYellow x_fact 3.0 y_fact 3.0
+236 "RECURRENT-NEURAL-NETWORKS-(RNNS)" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+237 "MULTI-OBJECTIVE" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+238 "LARGE-LANGUAGE-MODEL-(LLM)" ic White bc Black x_fact 1.0 y_fact 1.0
+239 "SMART-GRID-(SG)" ic White bc Black x_fact 1.0 y_fact 1.0
+240 "HIGH-PERFORMANCE-COMPUTER-SYSTEMS" ic PineGreen bc PineGreen x_fact 2.0 y_fact 2.0
+241 "SOFTWARE-DEFINED-NETWORKS-(SDNS)" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+242 "EDGE-ARTIFICIAL-INTELLIGENCE-(AI)" ic White bc Black x_fact 1.0 y_fact 1.0
+243 "INDUSTRIAL-INTERNET-OF-THINGS" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+244 "IOT" ic Blue bc Blue x_fact 5.0 y_fact 5.0
+*edges
+1 73 0.0536 c Black
+1 92 0.0806 c Magenta
+1 95 0.1136 c Black
+2 54 0.2500 c Black
+2 116 0.1852 c Dandelion
+2 141 0.4545 c Black
+2 210 0.7143 c Dandelion
+2 222 0.7143 c Dandelion
+2 231 0.7407 c Dandelion
+3 17 0.1212 c Black
+3 44 0.0298 c Black
+3 51 0.0616 c Black
+3 72 0.1114 c Black
+3 75 0.0343 c Black
+3 97 0.0649 c Black
+3 100 0.1070 c Black
+3 112 0.1347 c Black
+3 145 0.3030 c Black
+3 147 0.3306 c Black
+3 188 0.4040 c BlueGreen
+3 244 0.0870 c Black
+4 45 0.6349 c Black
+4 75 0.2156 c Black
+4 98 1.0390 c Black
+4 153 1.2857 c Black
+4 157 0.4762 c Black
+5 44 0.0351 c Black
+5 55 0.0501 c Black
+5 67 0.0389 c Black
+5 72 0.0840 c Black
+5 73 0.0091 c Black
+5 74 0.0131 c Black
+5 76 0.0196 c Black
+5 77 0.1401 c Black
+5 94 0.3968 c Fuchsia
+5 95 0.0433 c Black
+5 118 0.3061 c Fuchsia
+5 136 0.0952 c Fuchsia
+5 138 0.0794 c Fuchsia
+5 209 0.2116 c Black
+5 241 0.1361 c Fuchsia
+5 244 0.4103 c Black
+6 7 0.0952 c Black
+6 13 0.0595 c Black
+6 17 0.0278 c Black
+6 26 0.0273 c Black
+6 37 0.0952 c Yellow
+6 72 0.0163 c Black
+6 75 0.2830 c Yellow
+6 89 0.1587 c Yellow
+6 93 0.2381 c Yellow
+6 98 0.3409 c Yellow
+6 100 0.0980 c Black
+6 206 0.4762 c Black
+7 13 0.5102 c Black
+7 14 0.0714 c Black
+7 17 0.0857 c Black
+7 26 0.1897 c Black
+7 44 0.0211 c Black
+7 72 0.1134 c Black
+7 73 0.1361 c Black
+7 74 0.0966 c Black
+7 75 0.0674 c Black
+7 76 0.0470 c Black
+7 77 0.0840 c Black
+7 79 0.0301 c Peach
+7 80 0.0485 c Black
+7 81 0.0419 c Black
+7 83 0.0147 c Black
+7 86 0.1016 c Peach
+7 90 0.0408 c Black
+7 92 0.0184 c Black
+7 94 0.0381 c Black
+7 97 0.0204 c Black
+7 100 0.0336 c Black
+7 106 0.0423 c Black
+7 108 0.0208 c Black
+7 138 0.0476 c Black
+7 147 0.2338 c Black
+7 154 0.0879 c Black
+7 174 0.1270 c Peach
+7 190 0.1633 c Peach
+7 244 0.0122 c Black
+8 17 0.0250 c Black
+8 23 0.1026 c Black
+8 37 0.1524 c Black
+8 44 0.0683 c Black
+8 47 0.1333 c Black
+8 51 0.0226 c Black
+8 66 0.6944 c Fuchsia
+8 67 0.1088 c Black
+8 72 0.0408 c Black
+8 73 0.0778 c Black
+8 74 0.0828 c Black
+8 75 0.0503 c Black
+8 76 0.1842 c Black
+8 77 0.0157 c Black
+8 78 0.0226 c Black
+8 81 0.0122 c Black
+8 83 0.0171 c Black
+8 85 0.1905 c Black
+8 87 0.0430 c Black
+8 89 0.1429 c Black
+8 90 0.0476 c Black
+8 94 0.4000 c Fuchsia
+8 95 0.0303 c Black
+8 108 0.0242 c Black
+8 124 0.0741 c Black
+8 149 0.4848 c Black
+8 198 0.1667 c Black
+8 224 0.1429 c Black
+8 244 0.1277 c Black
+9 38 0.3077 c Black
+9 44 0.0252 c Black
+9 133 0.2564 c Black
+9 156 0.1923 c Mulberry
+10 24 0.4167 c Gray95
+10 72 0.0654 c Black
+10 73 0.0159 c Black
+10 75 0.0314 c Black
+10 76 0.0342 c Black
+10 81 0.0306 c Black
+10 84 0.1442 c Black
+10 89 0.3571 c Black
+10 91 0.1333 c Black
+10 235 0.0654 c Black
+11 58 1.2500 c Gray95
+11 73 0.0238 c Black
+11 76 0.0228 c Black
+12 17 0.1603 c Black
+12 26 0.1009 c Black
+12 34 0.0832 c Bittersweet
+12 36 0.1026 c Black
+12 44 0.1009 c Black
+12 51 0.1173 c Black
+12 70 0.1538 c Black
+12 72 0.0151 c Black
+12 73 0.0916 c Black
+12 74 0.2599 c Black
+12 80 0.3628 c Black
+12 82 0.0716 c Black
+12 97 0.0549 c Black
+12 99 0.4396 c Black
+12 106 0.1140 c Bittersweet
+12 111 0.0810 c Black
+12 112 0.1140 c Black
+12 113 0.3462 c Black
+12 115 0.1709 c Black
+12 129 0.1709 c Black
+12 134 0.1923 c Black
+12 154 0.2367 c Black
+13 14 0.0446 c Black
+13 15 0.0893 c Black
+13 17 0.1801 c Black
+13 25 0.3434 c Black
+13 26 0.3293 c Black
+13 35 0.0794 c Black
+13 37 0.0204 c Black
+13 44 0.0132 c Black
+13 51 0.1937 c Black
+13 55 0.0752 c Black
+13 64 0.0595 c Black
+13 72 0.0560 c Black
+13 73 0.0850 c Black
+13 74 0.0998 c Black
+13 75 0.0152 c Black
+13 76 0.0660 c Black
+13 77 0.0756 c Black
+13 79 0.0188 c Black
+13 80 0.0539 c Black
+13 81 0.0590 c Black
+13 83 0.0824 c Black
+13 84 0.1236 c Black
+13 89 0.0340 c Black
+13 90 0.0255 c Black
+13 91 0.0643 c GreenYellow
+13 96 0.0714 c Black
+13 97 0.0510 c Black
+13 100 0.1313 c Black
+13 101 0.0420 c GreenYellow
+13 108 0.0130 c Black
+13 124 0.0893 c Black
+13 131 1.1126 c GreenYellow
+13 136 0.0357 c Black
+13 141 0.0649 c Black
+13 147 0.0649 c Black
+13 154 0.0549 c Black
+13 162 0.0420 c Black
+13 174 0.0794 c Black
+13 212 0.0893 c Black
+13 213 0.6378 c GreenYellow
+13 235 0.4237 c GreenYellow
+13 244 0.0304 c Black
+14 17 0.0208 c Black
+14 44 0.0461 c Black
+14 51 0.0424 c Pink
+14 67 0.1148 c Black
+14 72 0.1501 c Black
+14 73 0.1071 c Black
+14 74 0.0172 c Black
+14 75 0.0531 c Black
+14 81 0.0516 c Black
+14 82 0.0581 c Black
+14 94 0.0833 c Black
+14 100 0.2941 c Pink
+14 110 0.1316 c Pink
+14 115 0.1389 c Black
+14 181 0.3125 c Black
+14 189 0.2778 c Black
+14 244 0.1662 c Black
+15 17 0.0938 c Black
+15 26 0.0922 c Black
+15 44 0.0410 c Black
+15 73 0.0952 c Black
+15 74 0.3103 c Black
+15 80 0.0943 c Black
+15 90 0.1786 c Black
+15 136 0.2500 c Black
+16 26 0.0143 c Black
+16 41 0.0362 c Black
+16 73 0.0186 c Black
+16 76 0.0179 c Black
+16 81 0.2553 c Black
+16 83 0.0892 c Black
+16 84 0.0334 c Black
+16 92 0.5680 c Magenta
+16 122 0.1779 c Magenta
+16 133 0.1449 c Black
+16 185 0.2484 c Black
+16 192 0.1739 c Magenta
+16 226 0.1338 c Magenta
+16 229 0.1932 c Magenta
+16 236 0.2484 c Magenta
+17 20 0.1667 c Black
+17 26 0.3613 c Red
+17 27 0.2083 c Black
+17 28 0.0303 c Black
+17 33 0.0128 c Black
+17 34 0.2725 c Black
+17 36 0.1778 c Red
+17 44 0.3934 c Red
+17 50 0.0222 c Black
+17 51 0.6229 c Black
+17 55 0.1776 c Black
+17 57 0.0772 c Black
+17 63 0.2083 c Black
+17 67 0.0272 c Black
+17 70 0.1500 c Red
+17 71 0.0256 c Black
+17 72 0.2161 c Red
+17 73 0.4587 c Red
+17 74 0.9661 c Red
+17 75 0.0283 c Black
+17 76 0.0137 c Black
+17 77 0.1186 c Black
+17 78 0.0353 c Black
+17 79 0.0548 c Black
+17 80 0.4025 c Red
+17 82 0.0174 c Black
+17 83 0.0096 c Black
+17 84 0.1298 c Black
+17 86 0.1500 c Black
+17 87 0.0430 c Black
+17 88 0.1042 c Black
+17 90 0.2411 c Black
+17 94 0.0111 c Black
+17 96 0.0333 c Black
+17 97 0.0952 c Black
+17 99 0.2976 c Red
+17 100 0.4142 c Black
+17 102 0.0152 c Black
+17 105 0.0682 c Black
+17 106 0.0494 c Black
+17 107 0.0303 c Black
+17 109 0.0784 c Black
+17 110 0.2807 c Black
+17 111 0.1075 c Red
+17 112 0.1111 c Black
+17 113 0.0667 c Black
+17 115 0.1157 c Black
+17 117 0.0256 c Black
+17 119 0.0238 c Black
+17 123 0.0256 c Black
+17 124 0.0417 c Black
+17 127 0.0889 c Black
+17 129 0.2269 c Red
+17 130 0.0702 c Black
+17 136 0.1042 c Black
+17 138 0.0139 c Black
+17 147 0.0303 c Black
+17 151 0.0303 c Black
+17 154 0.3141 c Black
+17 155 0.1302 c Black
+17 159 0.0500 c Black
+17 164 0.0750 c Black
+17 167 0.1894 c Black
+17 168 0.5625 c Black
+17 169 0.0256 c Black
+17 171 0.3750 c Black
+17 172 0.0833 c Black
+17 176 0.3750 c Black
+17 182 0.0833 c Black
+17 199 0.0370 c Black
+17 203 0.0417 c Black
+17 221 0.0278 c Black
+17 232 0.0417 c Black
+17 233 0.0303 c Black
+17 235 0.0065 c Black
+17 240 0.0115 c Black
+17 244 0.0080 c Black
+18 32 0.2051 c Black
+18 41 0.1442 c Black
+18 73 0.0586 c Black
+18 76 0.0140 c Black
+18 77 0.0362 c Black
+18 81 0.0635 c Black
+18 122 0.1399 c Black
+18 227 0.8654 c Black
+19 32 0.2222 c Black
+19 44 0.1093 c Black
+19 55 0.3509 c Black
+19 74 0.0517 c Black
+19 80 0.1415 c Black
+19 95 0.1705 c Black
+19 112 0.1235 c Black
+19 116 0.1235 c Dandelion
+19 181 0.4167 c Black
+19 244 0.0355 c Black
+20 44 0.0410 c Black
+20 51 0.1907 c Black
+20 73 0.0238 c Black
+20 74 0.0345 c Black
+21 59 0.1170 c Black
+21 72 0.0109 c Black
+21 73 0.0106 c Black
+21 77 0.0261 c Black
+21 78 0.0377 c Black
+21 114 0.0794 c RedViolet
+21 143 0.1481 c Black
+21 244 0.0236 c Black
+22 55 0.1316 c Black
+22 76 0.0228 c Black
+22 80 0.0943 c Black
+22 94 0.1667 c Fuchsia
+22 109 0.2941 c Black
+22 130 0.2632 c Black
+23 26 0.0252 c Black
+23 52 0.4396 c CornflowerBlue
+23 72 0.0943 c Black
+23 73 0.0330 c Black
+23 74 0.0477 c Black
+23 80 0.1306 c Black
+23 82 0.0716 c Black
+23 85 0.4396 c CornflowerBlue
+23 111 0.0810 c Black
+23 113 0.3462 c Black
+23 127 0.2051 c Black
+23 132 0.1923 c Black
+23 149 1.1189 c Black
+23 183 0.3077 c Black
+23 243 0.5325 c CornflowerBlue
+23 244 0.2046 c Black
+24 76 0.0514 c Black
+24 89 0.2381 c Black
+25 73 0.0147 c Black
+25 75 0.0290 c Black
+25 89 0.1465 c Black
+25 91 0.1231 c Black
+25 124 0.1709 c Black
+25 131 0.2367 c Black
+25 150 0.3077 c Black
+25 235 0.0603 c Black
+26 30 0.1457 c Black
+26 33 0.0504 c Black
+26 34 0.0199 c Black
+26 36 0.5355 c Red
+26 37 0.0094 c Black
+26 39 0.0328 c Black
+26 40 0.0615 c Black
+26 41 0.0615 c Black
+26 44 0.6457 c Red
+26 50 0.0219 c Black
+26 51 0.0500 c Black
+26 55 0.2610 c Black
+26 56 0.0273 c Black
+26 58 0.0461 c Black
+26 64 0.0615 c Black
+26 66 0.0273 c Black
+26 70 0.1025 c Red
+26 71 0.0567 c Black
+26 72 0.2929 c Red
+26 73 0.5343 c Red
+26 74 0.5789 c Red
+26 75 0.0495 c Black
+26 76 0.0633 c Black
+26 77 0.1630 c Black
+26 78 0.0125 c Black
+26 79 0.1381 c Black
+26 80 0.8908 c Red
+26 81 0.0368 c Black
+26 82 0.0686 c Black
+26 83 0.0263 c Black
+26 84 0.1009 c Black
+26 86 0.1475 c Black
+26 87 0.0661 c Black
+26 89 0.0156 c Black
+26 90 0.1874 c Black
+26 92 0.0119 c Black
+26 94 0.0109 c Black
+26 95 0.0298 c Black
+26 96 0.0328 c Black
+26 97 0.3293 c Black
+26 99 0.0263 c Red
+26 100 0.1953 c Black
+26 102 0.1826 c Black
+26 103 0.1543 c Black
+26 104 0.1018 c Black
+26 107 0.0298 c Black
+26 108 0.0134 c Black
+26 109 0.0434 c Black
+26 110 0.0388 c Black
+26 111 0.2157 c Red
+26 112 0.0486 c Black
+26 113 0.1475 c Black
+26 115 0.1138 c Black
+26 116 0.0759 c Black
+26 119 0.0527 c Black
+26 123 0.0567 c Black
+26 124 0.0182 c Black
+26 125 0.0364 c Black
+26 127 0.0874 c Black
+26 129 0.1639 c Red
+26 130 0.1079 c Black
+26 131 0.1576 c Black
+26 132 0.0205 c Black
+26 134 0.0461 c Black
+26 136 0.0656 c Black
+26 137 0.0410 c Black
+26 138 0.0307 c Black
+26 143 0.0492 c Black
+26 152 0.0468 c Black
+26 154 0.1576 c Black
+26 155 0.1844 c Black
+26 158 0.0738 c Black
+26 159 0.3497 c Black
+26 160 0.0252 c Black
+26 162 0.0434 c Black
+26 163 0.0328 c Black
+26 164 0.0738 c Black
+26 166 0.0615 c Black
+26 168 0.0615 c Black
+26 169 0.0252 c Black
+26 172 0.2277 c Black
+26 177 0.1639 c Black
+26 180 0.0468 c Black
+26 181 0.0410 c Black
+26 182 0.0364 c Black
+26 183 0.1311 c Black
+26 184 0.0205 c Black
+26 189 0.0364 c Black
+26 194 0.0410 c Black
+26 196 0.0205 c Black
+26 198 0.0410 c Black
+26 199 0.0364 c Black
+26 203 0.0922 c Black
+26 207 0.1054 c Black
+26 208 0.0193 c Black
+26 213 0.0468 c Black
+26 218 0.0410 c Black
+26 221 0.0273 c Black
+26 224 0.0351 c Black
+26 233 0.1192 c Black
+26 235 0.0579 c Black
+26 237 0.0492 c Black
+26 240 0.0113 c Black
+26 243 0.1009 c Black
+26 244 0.1474 c Black
+27 34 0.2432 c Bittersweet
+27 51 0.0678 c Black
+27 57 0.1481 c Black
+27 72 0.0441 c Black
+27 73 0.0190 c Black
+27 75 0.0377 c Black
+27 106 0.1481 c Bittersweet
+28 72 0.0178 c Black
+28 73 0.0693 c Black
+28 76 0.0664 c Black
+28 77 0.0428 c Black
+28 81 0.2085 c Black
+28 88 0.1818 c Gray95
+28 91 0.1455 c Black
+28 100 0.1070 c Black
+28 168 0.3030 c Black
+29 64 0.1515 c Green
+29 67 0.0371 c Green
+29 73 0.0087 c Black
+29 76 0.7493 c Green
+29 81 0.0667 c Green
+29 83 0.0233 c Green
+29 84 0.0787 c Green
+29 87 0.2346 c Green
+29 100 0.1203 c Black
+29 108 0.1322 c Green
+29 187 0.0791 c Green
+30 33 0.1709 c Salmon
+30 44 0.2277 c Black
+30 72 0.0490 c Black
+30 74 0.0307 c Black
+30 82 0.1034 c Black
+30 111 0.1170 c Black
+30 194 0.5556 c Black
+30 208 0.5882 c Salmon
+30 237 1.1852 c Salmon
+31 156 0.2778 c Mulberry
+31 230 1.4286 c Black
+32 41 0.1250 c Black
+32 72 0.0131 c Black
+32 73 0.0286 c Black
+32 77 0.0314 c Black
+32 78 0.1017 c PineGreen
+33 36 0.0513 c Black
+33 44 0.1135 c Black
+33 72 0.0471 c Black
+33 73 0.0073 c Black
+33 74 0.3210 c Black
+33 81 0.0141 c Black
+33 82 0.0358 c Black
+33 86 0.0342 c Black
+33 90 0.0549 c Black
+33 99 0.0549 c Black
+33 111 0.0911 c Black
+33 127 0.1026 c Salmon
+33 129 0.1923 c Black
+33 155 0.0962 c Black
+33 177 0.1923 c Black
+33 182 0.3846 c Salmon
+33 207 0.4945 c Salmon
+33 208 0.0905 c Salmon
+33 233 0.8741 c Salmon
+33 237 0.4103 c Salmon
+34 35 0.1201 c Bittersweet
+34 44 0.1418 c Black
+34 51 0.1649 c Black
+34 56 0.2027 c Bittersweet
+34 67 0.0221 c Black
+34 73 0.1042 c Black
+34 74 0.1193 c Black
+34 79 0.0284 c Black
+34 80 0.0459 c Black
+34 82 0.0251 c Black
+34 86 0.0240 c Black
+34 106 0.0400 c Bittersweet
+34 110 0.0569 c Black
+34 111 0.0640 c Black
+34 112 0.0901 c Black
+34 115 0.0601 c Black
+34 129 0.2402 c Black
+34 151 0.2211 c Bittersweet
+34 168 0.0901 c Black
+34 170 0.3475 c Bittersweet
+34 171 0.1351 c Bittersweet
+34 199 0.1201 c Black
+34 244 0.0115 c Black
+35 73 0.0476 c Black
+35 74 0.0307 c Black
+35 76 0.0203 c Black
+36 44 0.3934 c Red
+36 55 0.0789 c Black
+36 57 0.1111 c Black
+36 70 0.1500 c Red
+36 72 0.0801 c Red
+36 73 0.1921 c Red
+36 74 0.4506 c Red
+36 77 0.0157 c Black
+36 78 0.0508 c Black
+36 79 0.0351 c Black
+36 80 0.6289 c Red
+36 82 0.0310 c Black
+36 86 0.1185 c Black
+36 90 0.1071 c Black
+36 97 0.0536 c Black
+36 99 0.1071 c Red
+36 111 0.5614 c Red
+36 115 0.1667 c Black
+36 125 0.5926 c Black
+36 127 0.3556 c Black
+36 129 0.1667 c Red
+36 130 0.2807 c Black
+36 134 0.1875 c Black
+36 136 0.1500 c Black
+36 154 0.1026 c Black
+36 155 0.5208 c Black
+36 158 0.1333 c Black
+36 159 0.5556 c Black
+36 172 0.1481 c Black
+36 233 0.2727 c Black
+36 237 0.0889 c Black
+36 244 0.0319 c Black
+37 51 0.0194 c Black
+37 75 0.3261 c Yellow
+37 76 0.0835 c Black
+37 81 0.0105 c Black
+37 84 0.0879 c Black
+37 89 0.2177 c Yellow
+37 91 0.1829 c Black
+37 93 0.3265 c Yellow
+37 98 0.2078 c Yellow
+37 101 0.1513 c Black
+37 128 0.2143 c Yellow
+37 131 0.0879 c Black
+37 135 0.3214 c Black
+37 139 0.0816 c Black
+37 140 0.3214 c Yellow
+37 146 0.0762 c Black
+37 150 0.2571 c Black
+37 157 0.0952 c Black
+37 165 0.1429 c Black
+37 213 0.1633 c Black
+37 235 0.2745 c Black
+38 169 0.3077 c BlueGreen
+38 188 1.0000 c BlueGreen
+38 215 0.5714 c Black
+39 41 0.0833 c Black
+39 74 0.0276 c Black
+39 76 0.0183 c Black
+39 90 0.1429 c Black
+39 100 0.1176 c Black
+39 108 0.0727 c Black
+40 44 0.0615 c Black
+40 73 0.0159 c Black
+40 76 0.0152 c Black
+40 80 0.0629 c Black
+40 97 0.2381 c Blue
+40 114 0.1190 c Black
+40 156 0.2083 c Black
+40 188 0.3704 c Black
+41 42 0.2564 c Black
+41 44 0.1093 c Black
+41 51 0.0318 c Black
+41 54 0.0417 c Black
+41 59 0.0439 c Black
+41 67 0.0383 c Black
+41 72 0.0255 c Black
+41 73 0.0992 c Black
+41 76 0.0771 c Black
+41 77 0.0392 c Black
+41 80 0.0157 c Black
+41 81 0.0688 c Black
+41 83 0.1309 c Black
+41 84 0.0160 c Black
+41 86 0.0417 c Black
+41 87 0.0605 c Black
+41 92 0.1210 c Black
+41 97 0.0930 c Black
+41 100 0.0245 c Black
+41 106 0.1929 c Black
+41 108 0.0152 c Black
+41 112 0.0309 c Black
+41 114 0.0670 c Black
+41 116 0.1929 c Dandelion
+41 118 0.0595 c Black
+41 122 0.0379 c Black
+41 185 0.1190 c Black
+41 217 0.1042 c Black
+41 220 0.1190 c Black
+41 226 0.0641 c Black
+41 231 0.1235 c Dandelion
+41 236 0.1190 c Black
+41 244 0.0355 c Black
+42 59 1.9838 c Black
+42 73 0.0916 c Black
+42 81 0.0635 c Black
+42 83 0.0394 c Black
+42 97 0.1236 c Black
+42 114 0.4396 c RedViolet
+42 145 0.2564 c Black
+42 162 0.1810 c Black
+42 231 0.1140 c Black
+43 50 1.2821 c Dandelion
+43 65 0.2797 c Black
+43 73 0.0586 c Black
+43 97 0.0549 c Black
+43 114 0.2473 c Black
+43 116 0.2564 c Dandelion
+43 156 0.1923 c Black
+43 202 0.4396 c Black
+43 210 0.9890 c Dandelion
+43 222 0.4396 c Dandelion
+43 231 0.7123 c Dandelion
+44 49 0.0468 c Black
+44 51 0.1389 c Black
+44 55 0.3645 c Black
+44 56 0.1093 c Black
+44 57 0.0273 c Black
+44 62 0.0468 c Black
+44 63 0.0738 c Black
+44 70 0.0656 c Red
+44 72 0.2314 c Red
+44 73 0.3751 c Red
+44 74 0.5789 c Red
+44 75 0.0193 c Black
+44 76 0.0633 c Black
+44 77 0.1167 c Black
+44 78 0.1125 c Black
+44 79 0.0345 c Black
+44 80 0.8181 c Red
+44 81 0.0271 c Black
+44 82 0.5509 c Black
+44 83 0.0095 c Black
+44 84 0.0142 c Black
+44 86 0.0893 c Black
+44 87 0.0106 c Black
+44 88 0.0164 c Black
+44 90 0.1874 c Black
+44 92 0.0212 c Black
+44 94 0.0437 c Black
+44 95 0.1192 c Black
+44 97 0.2869 c Black
+44 99 0.1434 c Red
+44 100 0.1543 c Black
+44 102 0.0149 c Black
+44 105 0.0671 c Black
+44 106 0.0273 c Black
+44 107 0.0671 c Black
+44 108 0.0060 c Black
+44 109 0.1205 c Black
+44 110 0.0690 c Black
+44 111 0.2610 c Red
+44 112 0.3673 c Black
+44 113 0.1025 c Black
+44 114 0.0117 c Black
+44 115 0.0729 c Black
+44 116 0.1943 c Black
+44 119 0.0527 c Black
+44 121 0.0298 c Black
+44 123 0.0252 c Black
+44 125 0.1457 c Black
+44 127 0.0874 c Black
+44 129 0.2231 c Red
+44 130 0.1553 c Black
+44 132 0.0205 c Black
+44 134 0.1281 c Black
+44 136 0.1025 c Black
+44 143 0.0492 c Black
+44 148 0.0364 c Black
+44 154 0.1576 c Black
+44 155 0.0820 c Black
+44 156 0.0461 c Black
+44 158 0.0328 c Black
+44 159 0.2678 c Black
+44 160 0.0252 c Black
+44 162 0.0193 c Black
+44 167 0.0298 c Black
+44 170 0.1054 c Black
+44 171 0.0410 c Black
+44 172 0.1457 c Black
+44 175 0.0410 c Black
+44 176 0.0922 c Black
+44 181 0.0922 c Black
+44 182 0.1457 c Black
+44 183 0.0738 c Black
+44 184 0.0205 c Black
+44 189 0.0820 c Black
+44 194 0.0410 c Black
+44 198 0.0922 c Black
+44 199 0.0364 c Black
+44 203 0.0410 c Black
+44 208 0.0193 c Black
+44 218 0.0410 c Black
+44 220 0.0468 c Black
+44 224 0.1405 c Black
+44 233 0.1192 c Black
+44 237 0.0874 c Black
+44 240 0.0707 c Black
+44 241 0.0527 c Black
+44 242 0.0273 c Black
+44 243 0.1576 c Black
+44 244 0.1962 c Black
+45 75 0.2621 c Black
+45 93 0.3175 c Black
+45 98 0.4545 c Black
+45 100 0.2941 c Pink
+45 153 1.7778 c Black
+45 165 0.5556 c Black
+45 199 0.4938 c Pink
+45 235 0.0871 c Black
+46 75 0.0377 c Black
+46 76 0.0183 c Black
+46 84 0.0769 c Black
+46 235 0.1765 c GreenYellow
+47 51 0.0678 c Black
+47 76 0.0411 c Black
+47 86 0.2000 c Peach
+48 59 0.3008 c Black
+48 73 0.0272 c Black
+48 143 0.3810 c Black
+49 55 0.1504 c Black
+49 72 0.0280 c Black
+49 74 0.0394 c Black
+49 76 0.0261 c Black
+49 95 0.1299 c Black
+49 97 0.1020 c Black
+49 224 0.2721 c Black
+49 244 0.1368 c Black
+50 55 0.0702 c Black
+50 73 0.0794 c Black
+50 97 0.0476 c Black
+50 116 0.3951 c Dandelion
+50 133 0.2222 c Black
+50 156 0.1667 c Black
+50 210 0.3810 c Dandelion
+50 222 0.8571 c Dandelion
+50 231 0.8889 c Dandelion
+51 55 0.0714 c Black
+51 57 0.0251 c Black
+51 64 0.0565 c Black
+51 67 0.0865 c Black
+51 70 0.1356 c Black
+51 72 0.0831 c Black
+51 73 0.0291 c Black
+51 74 0.0947 c Black
+51 75 0.0400 c Black
+51 76 0.0124 c Black
+51 77 0.0319 c Black
+51 79 0.0178 c Black
+51 80 0.0512 c Black
+51 82 0.0158 c Black
+51 84 0.0815 c Black
+51 86 0.0603 c Black
+51 90 0.0242 c Pink
+51 94 0.0226 c Black
+51 95 0.0154 c Black
+51 97 0.0121 c Black
+51 99 0.0545 c Black
+51 100 0.1795 c Pink
+51 110 0.0803 c Pink
+51 111 0.0178 c Black
+51 112 0.0251 c Black
+51 113 0.0339 c Black
+51 115 0.0377 c Black
+51 124 0.0847 c Black
+51 132 0.0953 c Pink
+51 134 0.0424 c Black
+51 147 0.1387 c Pink
+51 150 0.0678 c Black
+51 154 0.4694 c Black
+51 155 0.0424 c Black
+51 167 0.0616 c Black
+51 170 0.2179 c Black
+51 171 0.0847 c Black
+51 175 0.0847 c Black
+51 176 0.0847 c Black
+51 213 0.2179 c Black
+51 235 0.0133 c Black
+51 239 0.0616 c Black
+51 240 0.0234 c Black
+51 244 0.0451 c Black
+52 75 0.0539 c Black
+52 104 0.1970 c Black
+52 132 0.3571 c Black
+52 137 0.7143 c Black
+52 190 0.8163 c Black
+53 75 0.1061 c Black
+53 179 0.5000 c Gray95
+54 67 0.0408 c Black
+54 72 0.0613 c Black
+54 73 0.0095 c Black
+54 74 0.0138 c Black
+54 76 0.0091 c Black
+54 78 0.0763 c PineGreen
+54 82 0.0465 c Black
+54 83 0.0256 c Black
+54 95 0.1023 c Black
+54 102 0.0909 c Black
+54 116 0.0741 c Black
+54 136 0.4000 c Black
+54 141 0.1818 c Black
+54 162 0.1176 c Black
+54 188 0.2222 c Black
+54 193 0.2857 c Black
+54 214 0.2222 c Black
+54 244 0.0479 c Black
+55 70 0.0526 c Black
+55 71 0.1822 c Black
+55 72 0.1858 c Black
+55 73 0.0614 c Black
+55 74 0.1815 c Black
+55 76 0.0048 c Black
+55 77 0.1517 c Black
+55 79 0.0277 c Black
+55 80 1.1172 c Black
+55 82 0.3917 c Black
+55 84 0.0202 c Black
+55 86 0.0526 c Black
+55 88 0.1184 c Black
+55 92 0.0170 c Black
+55 94 0.0351 c Black
+55 95 0.3828 c Blue
+55 97 0.9211 c Blue
+55 99 0.0376 c Black
+55 100 0.0697 c Black
+55 107 0.0957 c Black
+55 109 0.1393 c Black
+55 111 0.0623 c Black
+55 112 0.6238 c Blue
+55 116 0.0877 c Black
+55 118 0.1692 c Black
+55 129 0.0585 c Black
+55 130 0.1247 c Black
+55 136 0.0526 c Black
+55 138 0.0987 c Black
+55 152 0.1504 c Black
+55 154 0.1822 c Blue
+55 158 0.1053 c Black
+55 159 0.0702 c Black
+55 160 0.0810 c Black
+55 162 0.1393 c Blue
+55 166 0.0877 c Black
+55 168 0.3509 c Black
+55 172 0.2632 c Black
+55 181 0.1316 c Black
+55 183 0.2368 c Black
+55 189 0.2632 c Black
+55 218 0.1316 c Blue
+55 242 0.0877 c Black
+55 244 0.1792 c Blue
+56 72 0.0163 c Black
+56 74 0.3678 c Black
+56 75 0.0314 c Black
+56 77 0.0392 c Black
+56 80 0.0629 c Black
+56 123 0.2564 c Black
+57 67 0.0302 c Black
+57 72 0.1162 c Black
+57 73 0.0635 c Black
+57 74 0.0409 c Black
+57 76 0.0068 c Black
+57 77 0.0174 c Black
+57 79 0.0390 c Peach
+57 80 0.0280 c Black
+57 83 0.0190 c Black
+57 86 0.0741 c Peach
+57 99 0.0529 c Black
+57 113 0.0741 c Black
+57 127 0.0988 c Black
+57 134 0.0926 c Black
+57 155 0.2083 c Peach
+57 167 0.1347 c Black
+57 178 0.1646 c Black
+57 226 0.1140 c Black
+57 240 0.1149 c Black
+58 73 0.0119 c Black
+58 75 0.0236 c Black
+58 76 0.0457 c Black
+58 77 0.0662 c Black
+58 81 0.0229 c Black
+58 84 0.0481 c Black
+58 97 0.0446 c Black
+58 108 0.0455 c Black
+58 224 0.1190 c Black
+58 244 0.1662 c Black
+59 73 0.0226 c Black
+59 78 0.0803 c PineGreen
+59 81 0.0193 c Black
+59 108 0.0383 c Black
+59 114 0.9211 c Black
+59 185 0.3008 c Black
+60 61 1.6071 c PineGreen
+60 65 1.0227 c Black
+60 78 0.1907 c PineGreen
+60 231 0.4167 c Black
+60 234 2.5000 c Black
+61 78 0.0969 c PineGreen
+62 74 0.0394 c Black
+62 75 0.0539 c Black
+62 97 0.1020 c Black
+63 75 0.0377 c Black
+63 80 0.0755 c Black
+63 99 0.1429 c Black
+64 73 0.0357 c Black
+64 74 0.0230 c Black
+64 76 0.1865 c Green
+64 81 0.0688 c Green
+64 84 0.0641 c Green
+64 87 0.2419 c Green
+64 90 0.1190 c Black
+64 100 0.0980 c Black
+64 108 0.1364 c Green
+64 187 0.1449 c Green
+65 156 0.2273 c Mulberry
+65 231 0.3030 c Black
+65 234 1.8182 c Black
+66 72 0.0163 c Black
+66 73 0.0357 c Black
+66 74 0.0230 c Black
+66 75 0.0708 c Black
+66 76 0.0951 c Black
+66 84 0.0641 c Black
+66 89 0.1587 c Black
+66 94 0.1111 c Fuchsia
+66 104 0.1149 c Black
+67 72 0.0360 c Black
+67 73 0.0243 c Black
+67 74 0.0127 c Black
+67 75 0.1925 c Black
+67 76 0.2386 c Green
+67 77 0.0384 c Black
+67 79 0.0215 c Black
+67 80 0.0154 c Black
+67 82 0.0190 c Black
+67 83 0.0105 c Green
+67 84 0.0157 c Green
+67 86 0.0408 c Black
+67 87 0.0263 c Green
+67 88 0.0408 c Black
+67 89 0.0389 c Black
+67 93 0.0583 c Black
+67 95 0.0186 c Black
+67 98 0.0835 c Black
+67 100 0.0240 c Black
+67 101 0.0480 c Black
+67 118 0.0583 c Black
+67 124 0.1020 c Black
+67 126 0.0742 c Black
+67 128 0.0680 c Black
+67 132 0.0510 c Black
+67 139 0.0583 c Black
+67 157 0.1531 c Black
+67 167 0.0742 c Black
+67 168 0.1531 c Black
+67 174 0.0907 c Black
+67 187 0.0355 c Green
+67 193 0.1166 c Black
+67 206 0.1166 c Black
+67 209 0.2041 c Black
+67 212 0.1020 c Black
+67 223 0.1166 c Black
+67 235 0.0160 c Black
+67 241 0.0583 c Black
+67 243 0.0628 c Black
+67 244 0.0347 c Black
+68 76 0.0316 c Black
+68 77 0.0362 c Magenta
+68 92 0.3102 c Magenta
+68 97 0.0549 c Black
+68 112 0.1140 c Black
+68 122 0.1399 c Magenta
+68 166 0.2564 c Magenta
+68 193 0.4396 c Magenta
+68 226 0.2367 c Magenta
+68 229 0.3419 c Magenta
+68 238 0.2198 c Black
+69 82 0.1163 c Lavender
+69 189 0.5556 c Lavender
+70 72 0.0882 c Red
+70 73 0.0857 c Red
+70 74 0.4966 c Red
+70 77 0.0235 c Black
+70 80 0.2358 c Red
+70 86 0.0444 c Black
+70 88 0.1000 c Black
+70 90 0.0714 c Black
+70 97 0.0804 c Black
+70 99 0.4464 c Red
+70 111 0.1184 c Red
+70 115 0.2500 c Black
+70 123 0.1538 c Black
+70 127 0.1333 c Black
+70 129 0.1111 c Red
+70 130 0.1053 c Black
+70 154 0.1538 c Black
+70 155 0.5000 c Black
+71 72 0.0339 c Black
+71 73 0.0586 c Black
+71 74 0.1910 c Black
+71 80 0.0581 c Black
+71 99 0.6868 c Black
+71 155 0.1923 c Black
+72 73 0.6071 c Red
+72 74 0.4141 c Red
+72 75 0.0296 c Black
+72 76 0.0110 c Black
+72 77 0.0283 c Black
+72 78 0.0075 c Black
+72 79 0.0826 c Black
+72 80 0.1332 c Red
+72 82 0.1379 c Black
+72 83 0.0226 c Black
+72 84 0.0462 c Black
+72 85 0.1120 c Black
+72 86 0.0534 c Black
+72 87 0.0395 c Black
+72 88 0.2966 c Black
+72 92 0.0506 c Black
+72 94 0.0801 c Black
+72 95 0.2184 c Black
+72 96 0.1225 c Black
+72 97 0.1261 c Black
+72 99 0.0438 c Red
+72 100 0.0706 c Black
+72 101 0.0115 c Black
+72 102 0.0802 c Black
+72 104 0.0152 c Black
+72 106 0.0454 c Black
+72 107 0.0713 c Black
+72 109 0.0260 c Black
+72 110 0.0645 c Black
+72 111 0.1290 c Red
+72 112 0.0890 c Black
+72 113 0.0392 c Black
+72 115 0.1743 c Black
+72 116 0.0073 c Black
+72 118 0.0875 c Black
+72 119 0.0140 c Black
+72 122 0.0089 c Black
+72 123 0.0151 c Black
+72 127 0.0294 c Black
+72 129 0.0109 c Red
+72 130 0.0232 c Black
+72 132 0.1103 c Black
+72 134 0.0276 c Black
+72 138 0.0735 c Black
+72 139 0.0140 c Black
+72 144 0.0280 c Black
+72 145 0.0368 c Black
+72 149 0.1604 c Black
+72 153 0.0441 c Black
+72 154 0.0339 c Black
+72 155 0.0766 c Black
+72 159 0.0294 c Black
+72 160 0.0603 c Black
+72 164 0.0441 c Black
+72 166 0.0368 c Black
+72 168 0.0654 c Black
+72 169 0.0151 c Black
+72 178 0.0490 c Black
+72 183 0.0196 c Black
+72 189 0.0490 c Black
+72 193 0.0280 c Black
+72 196 0.0276 c Black
+72 207 0.0280 c Black
+72 208 0.0115 c Black
+72 212 0.0245 c Black
+72 217 0.0245 c Black
+72 218 0.0980 c Black
+72 220 0.0280 c Black
+72 221 0.0368 c Black
+72 224 0.1494 c Black
+72 232 0.0245 c Black
+72 235 0.0038 c Black
+72 237 0.0523 c Black
+72 239 0.0713 c Black
+72 240 0.0828 c Black
+72 241 0.0875 c Black
+72 242 0.0163 c Black
+72 243 0.0151 c Black
+72 244 0.6758 c Black
+73 74 0.5793 c Red
+73 75 0.0647 c Black
+73 76 0.0870 c Black
+73 77 0.1619 c Black
+73 78 0.0291 c Black
+73 79 0.2118 c Black
+73 80 0.3243 c Red
+73 81 0.2730 c Black
+73 82 0.1107 c Black
+73 83 0.1032 c Black
+73 84 0.1548 c Black
+73 86 0.0519 c Black
+73 87 0.0753 c Black
+73 88 0.0214 c Black
+73 89 0.0091 c Black
+73 90 0.1701 c Black
+73 92 0.0768 c Black
+73 94 0.0143 c Black
+73 95 0.0693 c Black
+73 96 0.0429 c Black
+73 97 0.1224 c Black
+73 99 0.2058 c Red
+73 100 0.1401 c Black
+73 101 0.0252 c Black
+73 102 0.1753 c Black
+73 103 0.2745 c Black
+73 104 0.0805 c Black
+73 105 0.0390 c Black
+73 106 0.0282 c Black
+73 107 0.0173 c Black
+73 108 0.0216 c Black
+73 109 0.0252 c Black
+73 110 0.0226 c Black
+73 111 0.1015 c Red
+73 112 0.0159 c Black
+73 113 0.0381 c Black
+73 114 0.0068 c Black
+73 115 0.0952 c Black
+73 116 0.1764 c Black
+73 119 0.0544 c Black
+73 122 0.0195 c Black
+73 123 0.0916 c Black
+73 124 0.0423 c Black
+73 127 0.0286 c Black
+73 128 0.0159 c Black
+73 129 0.0952 c Red
+73 130 0.0902 c Black
+73 132 0.0119 c Black
+73 133 0.0159 c Black
+73 134 0.0744 c Black
+73 136 0.0595 c Black
+73 138 0.0317 c Black
+73 143 0.0508 c Black
+73 145 0.0357 c Black
+73 149 0.0173 c Black
+73 150 0.0190 c Black
+73 151 0.0693 c Black
+73 152 0.0272 c Black
+73 154 0.0330 c Black
+73 155 0.2411 c Black
+73 158 0.0190 c Black
+73 159 0.1143 c Black
+73 160 0.0330 c Black
+73 162 0.0252 c Black
+73 164 0.0762 c Black
+73 167 0.0390 c Black
+73 168 0.1429 c Black
+73 172 0.0476 c Black
+73 173 0.0136 c Black
+73 177 0.0536 c Black
+73 180 0.0272 c Black
+73 182 0.0847 c Black
+73 183 0.0429 c Black
+73 184 0.0119 c Black
+73 185 0.0272 c Black
+73 186 0.0272 c Black
+73 187 0.0186 c Black
+73 191 0.0272 c Black
+73 194 0.0536 c Black
+73 196 0.0744 c Black
+73 198 0.0536 c Black
+73 203 0.0536 c Black
+73 205 0.0272 c Black
+73 208 0.0252 c Black
+73 212 0.0238 c Black
+73 215 0.0272 c Black
+73 220 0.0272 c Black
+73 221 0.0159 c Black
+73 222 0.0612 c Black
+73 224 0.0363 c Black
+73 225 0.0190 c Black
+73 227 0.0238 c Black
+73 231 0.0864 c Black
+73 233 0.0390 c Black
+73 235 0.0233 c Black
+73 238 0.0306 c Black
+73 240 0.0591 c Black
+73 241 0.1224 c Black
+73 242 0.0357 c Black
+73 243 0.0330 c Black
+73 244 0.2234 c Black
+74 75 0.0787 c Black
+74 76 0.0113 c Black
+74 77 0.1826 c Black
+74 78 0.0421 c Black
+74 79 0.0653 c Black
+74 80 0.6298 c Red
+74 81 0.0025 c Black
+74 82 0.2711 c Black
+74 83 0.0141 c Black
+74 84 0.0332 c Black
+74 86 0.1854 c Black
+74 87 0.0200 c Black
+74 88 0.0862 c Black
+74 90 0.2463 c Black
+74 92 0.0100 c Black
+74 94 0.0828 c Black
+74 95 0.1270 c Black
+74 96 0.1724 c Black
+74 97 0.1232 c Black
+74 99 0.7118 c Red
+74 100 0.1643 c Black
+74 102 0.0282 c Black
+74 103 0.0081 c Black
+74 104 0.0095 c Black
+74 106 0.0920 c Black
+74 109 0.0649 c Black
+74 110 0.0327 c Black
+74 111 0.5880 c Red
+74 112 0.2069 c Black
+74 113 0.1241 c Black
+74 115 0.1877 c Black
+74 116 0.0230 c Black
+74 118 0.0443 c Black
+74 119 0.1232 c Black
+74 121 0.0564 c Black
+74 123 0.3395 c Black
+74 124 0.0153 c Black
+74 127 0.1149 c Black
+74 129 0.5517 c Red
+74 130 0.1307 c Black
+74 132 0.1552 c Black
+74 134 0.1552 c Black
+74 136 0.3448 c Black
+74 139 0.0197 c Black
+74 149 0.1567 c Black
+74 154 0.1326 c Black
+74 155 0.2759 c Black
+74 159 0.2253 c Black
+74 160 0.0212 c Black
+74 162 0.0162 c Black
+74 164 0.0276 c Black
+74 172 0.1226 c Black
+74 182 0.3755 c Black
+74 183 0.0276 c Black
+74 191 0.0394 c Black
+74 194 0.1379 c Black
+74 196 0.0172 c Black
+74 203 0.3103 c Black
+74 207 0.1576 c Black
+74 209 0.0307 c Black
+74 224 0.0131 c Black
+74 233 0.4013 c Black
+74 235 0.0216 c Black
+74 237 0.0736 c Black
+74 240 0.0095 c Black
+74 243 0.0849 c Black
+74 244 0.1651 c Black
+75 76 0.0069 c Black
+75 79 0.0621 c Black
+75 84 0.1814 c Black
+75 89 0.2875 c Yellow
+75 91 0.0340 c Black
+75 93 0.6739 c Yellow
+75 94 0.0126 c Black
+75 98 0.5189 c Yellow
+75 99 0.0135 c Black
+75 100 0.0444 c Black
+75 101 0.0222 c Black
+75 102 0.0172 c Black
+75 103 0.0999 c Black
+75 104 0.5498 c Yellow
+75 106 0.0140 c Black
+75 112 0.0140 c Black
+75 120 0.1061 c Black
+75 126 0.5489 c Yellow
+75 128 1.1321 c Yellow
+75 135 0.1887 c Black
+75 139 0.1078 c Black
+75 140 0.4245 c Yellow
+75 146 0.0252 c Black
+75 147 0.0343 c Black
+75 150 0.0377 c Black
+75 153 0.3396 c Yellow
+75 157 0.0314 c Black
+75 161 0.2948 c Yellow
+75 165 0.1061 c Black
+75 169 0.0290 c Black
+75 195 0.2156 c Black
+75 199 0.0419 c Black
+75 206 0.0539 c Black
+75 211 0.0849 c Black
+75 228 0.0943 c Black
+75 235 0.1850 c Black
+75 244 0.0251 c Black
+76 77 0.0908 c Black
+76 78 0.0031 c Black
+76 80 0.0078 c Black
+76 81 0.2832 c Green
+76 82 0.0096 c Black
+76 83 0.4923 c Green
+76 84 0.3170 c Green
+76 86 0.0254 c Black
+76 87 0.2489 c Green
+76 89 0.0196 c Black
+76 92 0.0597 c Black
+76 94 0.0746 c Black
+76 95 0.0509 c Black
+76 97 0.2087 c Black
+76 100 0.1343 c Black
+76 101 0.0242 c Black
+76 102 0.0083 c Black
+76 106 0.0423 c Black
+76 108 0.3661 c Green
+76 109 0.0107 c Black
+76 112 0.0423 c Black
+76 114 0.0147 c Black
+76 116 0.0271 c Black
+76 117 0.0140 c Black
+76 118 0.0294 c Black
+76 122 0.0519 c Black
+76 124 0.0634 c Black
+76 126 0.0166 c Black
+76 136 0.0365 c Black
+76 138 0.0076 c Black
+76 139 0.0294 c Black
+76 142 0.0562 c Black
+76 143 0.0487 c Black
+76 145 0.0342 c Black
+76 146 0.1096 c Black
+76 147 0.0166 c Black
+76 156 0.0114 c Black
+76 157 0.0609 c Black
+76 162 0.0430 c Black
+76 165 0.0514 c Black
+76 172 0.0457 c Black
+76 173 0.0294 c Black
+76 174 0.0812 c Black
+76 177 0.0514 c Black
+76 178 0.1826 c Black
+76 179 0.1644 c Black
+76 180 0.0261 c Black
+76 183 0.0183 c Black
+76 184 0.2312 c Green
+76 186 0.0261 c Black
+76 187 0.3891 c Green
+76 190 0.0261 c Black
+76 191 0.0261 c Black
+76 193 0.0587 c Black
+76 195 0.0261 c Black
+76 197 0.1398 c Black
+76 198 0.0228 c Black
+76 199 0.0203 c Black
+76 204 0.1948 c Green
+76 209 0.0457 c Black
+76 211 0.0183 c Black
+76 214 0.0457 c Black
+76 216 0.1044 c Black
+76 217 0.0514 c Black
+76 218 0.0228 c Black
+76 219 0.0261 c Black
+76 221 0.0152 c Black
+76 224 0.0087 c Black
+76 226 0.0140 c Black
+76 228 0.0457 c Black
+76 232 0.0228 c Black
+76 235 0.0322 c Black
+76 238 0.0294 c Black
+76 241 0.0130 c Black
+76 243 0.0140 c Black
+76 244 0.1574 c Black
+77 80 0.1088 c Black
+77 81 0.0043 c Black
+77 82 0.0109 c Black
+77 83 0.1222 c Black
+77 84 0.0090 c Black
+77 86 0.0105 c Black
+77 88 0.0235 c Black
+77 92 0.0683 c Magenta
+77 94 0.0353 c Black
+77 95 0.0428 c Black
+77 97 0.1702 c Black
+77 99 0.0168 c Black
+77 102 0.0481 c Black
+77 106 0.0174 c Black
+77 112 0.0392 c Black
+77 116 0.0174 c Black
+77 118 0.0756 c Black
+77 119 0.0336 c Black
+77 121 0.0428 c Black
+77 130 0.0557 c Black
+77 136 0.0529 c Black
+77 138 0.0441 c Black
+77 145 0.0392 c Black
+77 154 0.0362 c Black
+77 158 0.1059 c Black
+77 159 0.0314 c Black
+77 162 0.0277 c Black
+77 166 0.0392 c Magenta
+77 173 0.1345 c Black
+77 174 0.1176 c Black
+77 188 0.0523 c Black
+77 198 0.0588 c Black
+77 212 0.0588 c Black
+77 221 0.0392 c Black
+77 224 0.0504 c Black
+77 240 0.0365 c Black
+77 242 0.0882 c Black
+77 244 0.4055 c Black
+78 80 0.0128 c Black
+78 82 0.0158 c Black
+78 83 0.0087 c Black
+78 95 0.0154 c Black
+78 97 0.0272 c Black
+78 105 0.0616 c Black
+78 111 0.0401 c Black
+78 114 0.0545 c Black
+78 116 0.0251 c Black
+78 127 0.0452 c Black
+78 133 0.0565 c Black
+78 136 0.0763 c Black
+78 148 0.0753 c Black
+78 163 0.0678 c Black
+78 173 0.1090 c PineGreen
+78 182 0.0753 c Black
+78 183 0.0678 c Black
+78 196 0.0953 c PineGreen
+78 200 0.0969 c PineGreen
+78 202 0.0969 c PineGreen
+78 220 0.0969 c PineGreen
+78 231 0.0251 c Black
+78 240 0.0935 c PineGreen
+79 80 0.0794 c Black
+79 81 0.0097 c Black
+79 82 0.0245 c Black
+79 86 0.0936 c Peach
+79 89 0.0501 c Black
+79 99 0.1504 c Black
+79 103 0.0310 c Black
+79 105 0.0957 c Black
+79 106 0.0390 c Black
+79 109 0.0619 c Black
+79 111 0.0623 c Black
+79 115 0.1316 c Peach
+79 122 0.0478 c Black
+79 127 0.0702 c Black
+79 129 0.1316 c Black
+79 131 0.0810 c Black
+79 141 0.0957 c Black
+79 147 0.2153 c Black
+79 155 0.0658 c Peach
+79 168 0.0877 c Peach
+79 175 0.1316 c Black
+79 196 0.0658 c Black
+79 213 0.1504 c Black
+79 235 0.0206 c Black
+79 240 0.0363 c Black
+79 244 0.0112 c Black
+80 82 0.6319 c Black
+80 83 0.0097 c Black
+80 84 0.0145 c Black
+80 86 0.2055 c Black
+80 88 0.0849 c Black
+80 90 0.0606 c Black
+80 92 0.0274 c Black
+80 95 0.1544 c Black
+80 97 0.1213 c Black
+80 99 0.4313 c Red
+80 100 0.0499 c Black
+80 106 0.0280 c Black
+80 107 0.1544 c Black
+80 109 0.1776 c Black
+80 111 0.3178 c Red
+80 112 0.1747 c Black
+80 113 0.0849 c Black
+80 115 0.0419 c Black
+80 116 0.1747 c Black
+80 123 0.0581 c Black
+80 125 0.0839 c Black
+80 127 0.1132 c Black
+80 129 0.5136 c Red
+80 130 0.4866 c Black
+80 132 0.0472 c Black
+80 134 0.0472 c Black
+80 136 0.3396 c Black
+80 138 0.0708 c Black
+80 154 0.3628 c Black
+80 155 0.1061 c Black
+80 158 0.1698 c Black
+80 159 0.8050 c Black
+80 160 0.1306 c Black
+80 164 0.0755 c Black
+80 167 0.0686 c Black
+80 172 0.1887 c Black
+80 175 0.0943 c Black
+80 181 0.2123 c Black
+80 183 0.0755 c Black
+80 189 0.1887 c Black
+80 196 0.0472 c Black
+80 237 0.2013 c Black
+80 243 0.1306 c Black
+80 244 0.1285 c Black
+81 82 0.0085 c Black
+81 83 0.3011 c Green
+81 84 0.0441 c Green
+81 87 0.0118 c Green
+81 89 0.0699 c Black
+81 92 0.3329 c Black
+81 94 0.0122 c Black
+81 95 0.0083 c Black
+81 97 0.1048 c Black
+81 100 0.0675 c Black
+81 103 0.0675 c Black
+81 106 0.0849 c Black
+81 108 0.1668 c Green
+81 112 0.0136 c Black
+81 116 0.0136 c Black
+81 122 0.0667 c Black
+81 138 0.1376 c Black
+81 162 0.1943 c Black
+81 177 0.1032 c Black
+81 180 0.0524 c Black
+81 184 0.0229 c Green
+81 186 0.0524 c Black
+81 187 0.0638 c Green
+81 192 0.2294 c Black
+81 199 0.0408 c Black
+81 204 0.2202 c Green
+81 221 0.0306 c Black
+81 225 0.0826 c Black
+81 226 0.1764 c Black
+81 236 0.0524 c Black
+81 242 0.0306 c Black
+81 244 0.0039 c Black
+82 86 0.0207 c Black
+82 90 0.1329 c Black
+82 95 0.1321 c Black
+82 97 0.0374 c Black
+82 99 0.0748 c Black
+82 107 0.3383 c Lavender
+82 111 0.2203 c Black
+82 112 0.2153 c Black
+82 113 0.1047 c Lavender
+82 129 0.0517 c Black
+82 130 0.1102 c Lavender
+82 134 0.0581 c Black
+82 149 0.3383 c Lavender
+82 158 0.0930 c Black
+82 159 0.1395 c Lavender
+82 160 0.2862 c Lavender
+82 181 0.4651 c Lavender
+82 183 0.2093 c Lavender
+82 189 0.2326 c Lavender
+82 194 0.1163 c Lavender
+82 243 0.0716 c Black
+82 244 0.1212 c Black
+83 84 0.0222 c Green
+83 87 0.0165 c Green
+83 92 0.1675 c Black
+83 94 0.0385 c Black
+83 95 0.0262 c Black
+83 97 0.0206 c Black
+83 106 0.3846 c Black
+83 108 0.1492 c Green
+83 112 0.0427 c Black
+83 122 0.1457 c Black
+83 138 0.0214 c Black
+83 152 0.0733 c Black
+83 162 0.1207 c Black
+83 169 0.0394 c Black
+83 184 0.0321 c Green
+83 188 0.1282 c Black
+83 197 0.2003 c Black
+83 204 0.0769 c Green
+83 208 0.0302 c Black
+83 215 0.0733 c Black
+83 221 0.0427 c Black
+83 225 0.2051 c Black
+83 229 0.0570 c Black
+83 240 0.0177 c Black
+83 243 0.0394 c Black
+83 244 0.0123 c Black
+84 86 0.0171 c Black
+84 87 0.0248 c Green
+84 89 0.0366 c Black
+84 91 0.1231 c Black
+84 92 0.0279 c Black
+84 93 0.0549 c Black
+84 97 0.0549 c Black
+84 100 0.4581 c Black
+84 102 0.0350 c Black
+84 104 0.0265 c Black
+84 108 0.0559 c Green
+84 109 0.0452 c Black
+84 115 0.0427 c Black
+84 124 0.0962 c Black
+84 128 0.2564 c Black
+84 138 0.0321 c Black
+84 141 0.0699 c Black
+84 147 0.0699 c Black
+84 154 0.1331 c Black
+84 161 0.2163 c Black
+84 168 0.0641 c Black
+84 169 0.1331 c Black
+84 177 0.2163 c Black
+84 180 0.1099 c Black
+84 235 0.0603 c Black
+85 103 0.1681 c Black
+85 107 0.5195 c Black
+85 149 0.5195 c Black
+85 224 0.6122 c Black
+85 244 0.1368 c Black
+86 88 0.0444 c Black
+86 90 0.0714 c Black
+86 92 0.0143 c Black
+86 97 0.0159 c Black
+86 99 0.2857 c Black
+86 103 0.0588 c Black
+86 104 0.0307 c Black
+86 107 0.0808 c Black
+86 111 0.0234 c Black
+86 113 0.0444 c Black
+86 115 0.1111 c Peach
+86 124 0.1111 c Peach
+86 125 0.0988 c Peach
+86 129 0.0494 c Black
+86 145 0.0741 c Black
+86 155 0.1250 c Peach
+86 160 0.0684 c Black
+86 168 0.0741 c Peach
+86 174 0.0988 c Peach
+86 181 0.1111 c Black
+86 189 0.0988 c Black
+86 190 0.1270 c Peach
+86 224 0.0423 c Black
+86 244 0.0095 c Black
+87 94 0.0968 c Black
+87 95 0.0293 c Black
+87 97 0.0230 c Black
+87 108 0.0235 c Green
+87 111 0.0340 c Black
+87 112 0.1075 c Black
+87 142 0.2233 c Black
+87 143 0.0860 c Black
+87 243 0.0993 c Black
+87 244 0.0858 c Black
+88 99 0.0714 c Black
+88 129 0.2500 c Black
+89 91 0.0762 c Black
+89 93 0.3061 c Yellow
+89 104 0.0657 c Yellow
+89 128 0.3571 c Yellow
+89 131 0.1465 c Black
+90 94 0.0476 c Black
+90 99 0.2041 c Black
+90 100 0.1681 c Pink
+90 110 0.0752 c Pink
+90 111 0.2350 c Black
+90 113 0.0714 c Black
+90 123 0.1099 c Black
+90 127 0.2143 c Black
+90 136 0.0714 c Black
+90 155 0.3571 c Black
+90 159 0.2143 c Black
+90 172 0.1587 c Pink
+90 207 0.2041 c Black
+90 233 0.5195 c Black
+91 93 0.1143 c Black
+91 98 0.0727 c Black
+91 101 0.0941 c GreenYellow
+91 131 0.1231 c GreenYellow
+91 141 0.1455 c Black
+91 169 0.2769 c Black
+91 174 0.1778 c Black
+91 235 0.5020 c GreenYellow
+92 95 0.0916 c Black
+92 97 0.0720 c Black
+92 106 0.0538 c Black
+92 108 0.0469 c Black
+92 122 0.2639 c Magenta
+92 130 0.0340 c Black
+92 138 0.0269 c Black
+92 162 0.1518 c Black
+92 166 0.2151 c Magenta
+92 184 0.0907 c Black
+92 192 0.5806 c Magenta
+92 193 0.0922 c Magenta
+92 214 0.0717 c Black
+92 218 0.0806 c Black
+92 226 0.1985 c Magenta
+92 229 0.4480 c Magenta
+92 236 0.0922 c Magenta
+92 239 0.0587 c Black
+92 244 0.0275 c Black
+93 128 0.9524 c Yellow
+93 140 0.3571 c Yellow
+93 169 0.2198 c Black
+94 97 0.0536 c Black
+94 100 0.0882 c Black
+94 117 0.1026 c Fuchsia
+94 118 1.1667 c Fuchsia
+94 136 0.0667 c Fuchsia
+94 138 0.1250 c Fuchsia
+94 225 0.3000 c Fuchsia
+94 241 0.2143 c Fuchsia
+94 244 0.2270 c Black
+95 97 0.2597 c Blue
+95 107 0.0826 c Black
+95 112 0.1347 c Blue
+95 113 0.0455 c Black
+95 116 0.0337 c Black
+95 119 0.0649 c Black
+95 130 0.0478 c Black
+95 132 0.2273 c Black
+95 136 0.0455 c Black
+95 138 0.0852 c Black
+95 149 0.0826 c Black
+95 156 0.0568 c Black
+95 159 0.0606 c Black
+95 160 0.0699 c Black
+95 172 0.2273 c Black
+95 173 0.0649 c Black
+95 181 0.1136 c Black
+95 183 0.3636 c Black
+95 193 0.1299 c Black
+95 197 0.0568 c Black
+95 224 0.0433 c Black
+95 239 0.0826 c Black
+95 242 0.3030 c Black
+95 243 0.1573 c Black
+95 244 0.2926 c Blue
+96 111 0.1053 c Black
+97 99 0.0574 c Black
+97 100 0.1891 c Black
+97 102 0.0325 c Black
+97 108 0.0292 c Black
+97 112 0.4233 c Blue
+97 113 0.0357 c Black
+97 114 0.0255 c Black
+97 116 0.1653 c Black
+97 129 0.0893 c Black
+97 130 0.0376 c Black
+97 132 0.0446 c Black
+97 134 0.0446 c Black
+97 136 0.0357 c Black
+97 138 0.0670 c Black
+97 145 0.2381 c Blue
+97 147 0.1461 c Black
+97 154 0.2198 c Blue
+97 158 0.1607 c Black
+97 160 0.0549 c Black
+97 162 0.6723 c Blue
+97 166 0.1339 c Black
+97 168 0.0595 c Black
+97 172 0.1786 c Black
+97 173 0.1148 c Black
+97 178 0.0794 c Black
+97 183 0.0714 c Black
+97 188 0.1786 c Black
+97 199 0.1786 c Black
+97 205 0.1020 c Black
+97 212 0.0893 c Black
+97 214 0.3175 c Blue
+97 217 0.3571 c Blue
+97 218 0.5580 c Blue
+97 221 0.0595 c Black
+97 222 0.1020 c Black
+97 226 0.1236 c Black
+97 229 0.0794 c Black
+97 242 0.0595 c Black
+97 244 0.2299 c Blue
+98 139 0.2922 c Black
+98 140 0.2273 c Yellow
+98 153 0.1818 c Yellow
+98 157 0.1515 c Black
+98 165 0.5114 c Black
+98 211 0.4091 c Black
+98 235 0.1426 c Black
+99 106 0.2116 c Black
+99 109 0.0840 c Black
+99 113 0.0714 c Black
+99 115 0.3175 c Black
+99 119 0.1020 c Black
+99 123 0.1099 c Black
+99 129 1.2698 c Red
+99 154 0.1099 c Black
+99 155 0.5580 c Black
+99 167 0.1299 c Black
+99 182 0.1587 c Black
+99 203 0.1786 c Black
+99 233 0.1299 c Black
+100 102 0.2139 c Pink
+100 103 0.0346 c Black
+100 110 0.1393 c Pink
+100 111 0.0697 c Black
+100 112 0.1743 c Black
+100 116 0.0980 c Black
+100 117 0.0905 c Black
+100 118 0.0840 c Black
+100 132 0.2941 c Pink
+100 136 0.1324 c Black
+100 145 0.0980 c Black
+100 147 0.2406 c Pink
+100 153 0.1176 c Black
+100 154 0.3620 c Black
+100 162 0.1557 c Black
+100 164 0.1176 c Black
+100 168 0.0980 c Black
+100 172 0.2941 c Pink
+100 177 0.1471 c Pink
+100 199 0.8170 c Pink
+100 217 0.1471 c Black
+100 244 0.0501 c Black
+101 124 0.1307 c Black
+101 126 0.2139 c Black
+101 212 0.2941 c Black
+101 235 0.1845 c GreenYellow
+102 103 0.2139 c Black
+102 104 0.0627 c Black
+102 116 0.0673 c Black
+102 177 0.2273 c Pink
+102 235 0.0357 c Black
+102 244 0.0435 c Black
+103 104 1.7140 c Black
+103 120 0.1471 c Gray95
+104 108 0.0251 c Black
+104 120 0.3879 c Black
+105 196 0.2273 c Black
+106 112 0.0549 c Black
+106 122 0.0673 c Black
+106 215 0.2116 c Black
+106 229 0.1646 c Black
+106 240 0.0511 c Black
+106 244 0.0158 c Black
+107 160 0.2797 c Lavender
+107 189 0.4040 c Lavender
+108 114 0.0260 c Black
+108 138 0.0303 c Black
+108 162 0.0428 c Black
+108 177 0.0909 c Black
+108 187 0.9565 c Green
+108 197 0.1818 c Black
+108 204 0.1091 c Green
+108 221 0.0606 c Black
+108 238 0.1169 c Black
+108 244 0.0077 c Black
+109 127 0.1569 c Black
+109 130 0.1238 c Black
+109 136 0.1176 c Black
+109 155 0.1471 c Black
+109 168 0.1961 c Black
+109 207 0.7563 c Black
+109 224 0.1120 c Black
+109 244 0.0563 c Black
+110 134 0.1316 c Black
+111 112 0.0877 c Black
+111 113 0.1184 c Black
+111 115 0.1316 c Black
+111 117 0.0810 c Black
+111 127 0.2807 c Black
+111 130 0.1247 c Black
+111 136 0.0526 c Black
+111 154 0.0810 c Black
+111 155 0.0658 c Black
+111 159 0.2807 c Black
+111 160 0.0810 c Black
+111 172 0.4678 c Black
+111 175 0.1316 c Black
+111 182 0.1170 c Black
+111 194 0.5263 c Black
+111 196 0.0658 c Black
+111 203 0.1316 c Black
+111 233 0.5981 c Black
+111 237 0.2807 c Black
+111 244 0.0448 c Black
+112 116 0.1235 c Black
+112 119 0.1058 c Black
+112 130 0.0780 c Black
+112 145 0.1235 c Blue
+112 154 0.2564 c Blue
+112 160 0.1140 c Black
+112 172 0.3704 c Black
+112 183 0.1481 c Black
+112 189 0.1646 c Black
+112 243 0.1140 c Black
+112 244 0.0158 c Blue
+113 116 0.0741 c Black
+113 123 0.1538 c Black
+113 132 0.2812 c Black
+113 149 0.1818 c Lavender
+113 159 0.1333 c Lavender
+113 244 0.0213 c Black
+114 122 0.0649 c Black
+114 148 0.1587 c RedViolet
+114 201 0.2041 c Black
+114 230 0.2041 c RedViolet
+115 129 0.1235 c Black
+115 155 0.5556 c Peach
+115 196 0.5556 c Black
+115 240 0.0766 c Black
+115 244 0.0532 c Black
+116 130 0.0780 c Black
+116 143 0.2222 c Dandelion
+116 210 0.2116 c Dandelion
+116 215 0.4762 c Dandelion
+116 222 1.9048 c Dandelion
+116 227 0.1852 c Dandelion
+116 231 0.8779 c Dandelion
+116 244 0.0158 c Black
+117 156 0.1923 c Black
+117 244 0.0736 c Black
+118 132 0.1786 c Black
+118 244 0.0684 c Black
+119 155 0.4018 c Black
+121 244 0.1547 c Black
+122 166 0.1515 c Magenta
+122 226 0.1399 c Magenta
+122 244 0.0193 c Black
+123 233 0.2797 c Black
+124 212 0.2778 c Black
+124 235 0.0436 c Black
+125 136 0.2222 c Black
+125 156 0.2778 c Black
+125 224 0.2116 c Black
+126 179 0.3636 c Black
+127 133 0.2222 c Black
+127 155 0.1667 c Black
+127 207 0.3810 c Salmon
+127 233 0.2424 c Salmon
+128 206 0.4762 c Black
+128 235 0.0654 c Black
+129 155 0.5556 c Black
+129 203 0.6250 c Black
+130 134 0.1316 c Black
+130 136 0.1053 c Black
+130 138 0.0877 c Black
+130 154 0.1619 c Black
+130 159 0.1404 c Lavender
+130 160 0.1619 c Lavender
+131 213 0.4396 c GreenYellow
+131 235 0.7391 c GreenYellow
+132 136 0.1250 c Black
+132 145 0.2083 c Black
+132 242 0.2083 c Black
+132 244 0.0598 c Black
+133 163 0.7500 c Gray95
+133 231 0.1235 c Black
+134 154 0.1923 c Black
+134 173 0.1786 c Black
+134 208 0.1471 c Black
+134 244 0.0266 c Black
+135 161 0.6250 c Black
+136 156 0.1250 c Black
+136 159 0.8333 c Black
+136 166 0.1667 c Black
+136 172 0.2222 c Black
+136 242 0.1667 c Black
+136 244 0.1330 c Black
+138 162 0.0980 c Black
+138 225 0.1667 c Fuchsia
+138 239 0.1515 c Black
+138 243 0.1282 c Black
+138 244 0.0709 c Black
+139 153 0.6429 c Black
+139 228 0.7143 c Gray95
+141 148 0.4040 c Black
+141 235 0.0713 c Black
+143 222 0.3810 c Dandelion
+143 231 0.2222 c Dandelion
+145 173 0.2381 c Black
+145 188 0.3704 c Black
+145 221 0.6250 c Black
+145 222 0.4762 c Black
+145 231 0.1235 c Black
+146 157 0.2222 c GreenYellow
+146 235 0.1176 c GreenYellow
+146 244 0.0284 c Black
+147 244 0.0387 c Black
+148 240 0.1533 c Black
+149 224 0.1732 c Black
+149 241 0.2597 c Black
+149 244 0.2418 c Black
+150 161 0.5000 c Black
+150 235 0.1765 c GreenYellow
+153 165 0.5000 c Black
+153 199 0.4444 c Black
+153 211 0.4000 c Black
+153 235 0.1765 c Black
+154 218 0.3846 c Blue
+156 201 0.3571 c Mulberry
+156 224 0.1190 c Mulberry
+156 244 0.0266 c Black
+157 235 0.2614 c GreenYellow
+159 160 0.2051 c Lavender
+159 164 0.2667 c Black
+159 194 0.3333 c Lavender
+159 244 0.0284 c Black
+160 164 0.3077 c Black
+160 240 0.1061 c Black
+160 244 0.0327 c Black
+161 235 0.2206 c Black
+162 166 0.1961 c Black
+162 173 0.1681 c Black
+162 188 0.5882 c Black
+162 199 0.2614 c Black
+162 214 1.0458 c Blue
+164 237 0.2667 c Black
+165 211 1.1250 c GreenYellow
+165 235 0.6127 c GreenYellow
+166 180 0.4762 c Black
+166 229 0.3704 c Magenta
+166 244 0.0355 c Black
+167 240 0.1254 c Black
+168 177 0.4167 c Black
+169 188 0.7692 c BlueGreen
+169 211 0.3077 c Black
+169 215 0.4396 c Black
+170 241 0.4082 c Black
+172 233 0.4040 c Black
+173 196 0.1786 c PineGreen
+173 205 0.4082 c Black
+173 221 0.5357 c Black
+173 240 0.6158 c PineGreen
+175 196 0.3125 c Black
+175 237 0.3333 c Black
+177 180 0.7143 c Black
+179 204 0.2667 c Black
+181 189 0.5556 c Lavender
+182 203 0.5556 c Black
+182 224 0.2116 c Black
+182 233 0.4040 c Salmon
+183 243 0.3077 c Black
+183 244 0.1702 c Black
+184 244 0.1662 c Black
+186 204 0.3810 c Black
+187 197 0.1087 c Black
+187 228 0.1932 c Black
+188 244 0.0473 c Black
+189 226 0.3419 c Black
+194 237 0.3333 c Black
+196 208 0.1471 c Black
+196 240 0.5388 c PineGreen
+197 225 0.2500 c Black
+202 210 0.8163 c Black
+202 240 0.1970 c PineGreen
+203 207 0.7143 c Black
+204 242 0.2222 c Black
+205 240 0.1970 c Black
+207 233 1.1688 c Salmon
+208 221 0.1961 c Black
+208 240 0.0811 c Black
+208 244 0.0250 c Black
+210 231 0.4762 c Dandelion
+211 235 0.1765 c GreenYellow
+212 235 0.0980 c Black
+212 241 0.3571 c Black
+212 244 0.0532 c Black
+213 235 0.4482 c GreenYellow
+214 217 0.5556 c Blue
+214 229 0.4938 c Black
+214 244 0.0473 c Blue
+217 244 0.0532 c Blue
+218 239 0.4545 c Black
+219 235 0.1120 c Black
+220 244 0.0608 c Black
+222 231 1.9048 c Dandelion
+224 244 0.6130 c Black
+225 244 0.0426 c Black
+229 236 0.6349 c Magenta
+229 243 0.3419 c Black
+231 234 0.4167 c Black
+238 242 0.2381 c Gray95
+239 244 0.0387 c Black
+241 244 0.1216 c Black
+242 244 0.0798 c Black
+243 244 0.1309 c Black
