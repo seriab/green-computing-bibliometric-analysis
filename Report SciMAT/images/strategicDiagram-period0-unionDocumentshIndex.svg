@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="800" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 800 800" height="800" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<line y2="400" stroke-width="1" x1="60" x2="740" stroke="black" y1="400"/>
+<line y2="740" stroke-width="1" x1="400" x2="400" stroke="black" y1="60"/>
+<text x="730" y="400" id="text23" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">centrality</text>
+<text x="400" y="60" id="text24" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">density</text>
+<line y2="0" stroke-width="1" x1="0" x2="799" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
+<line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
+<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="700.0" cy="460.0"/>
+<text x="700.0" y="460.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CLOUD-COMPUTING<tspan x="700.0" id="text25" y="475.0">50</tspan>
+</text>
+<circle id="circle15" r="49.6" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="259.99999999999994"/>
+<text x="740.0" y="259.99999999999994" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">INFORMATION-SYSTEMS<tspan x="740.0" id="text25" y="274.99999999999994">37</tspan>
+</text>
+<circle id="circle15" r="42.400000000000006" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="580.0" cy="580.0"/>
+<text x="580.0" y="580.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">INFORMATION-COMMUNICATION-TECHNOLOGY<tspan x="580.0" id="text25" y="595.0">28</tspan>
+</text>
+<circle id="circle15" r="36.8" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="540.0" cy="500.0"/>
+<text x="540.0" y="500.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">POWER-MANAGEMENT<tspan x="540.0" id="text25" y="515.0">21</tspan>
+</text>
+<circle id="circle15" r="35.2" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="660.0" cy="140.0"/>
+<text x="660.0" y="140.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENVIRONMENTAL-SUSTAINABILITY<tspan x="660.0" id="text25" y="155.0">19</tspan>
+</text>
+<circle id="circle15" r="35.2" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="500.0" cy="300.0"/>
+<text x="500.0" y="300.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">POWER-CONSUMPTION<tspan x="500.0" id="text25" y="315.0">19</tspan>
+</text>
+<circle id="circle15" r="34.4" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="620.0" cy="420.0"/>
+<text x="620.0" y="420.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">POWER-AWARE-COMPUTING<tspan x="620.0" id="text25" y="435.0">18</tspan>
+</text>
+<circle id="circle15" r="32.8" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="420.0" cy="660.0"/>
+<text x="420.0" y="660.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GREEN-DATA-CENTER<tspan x="420.0" id="text25" y="675.0">16</tspan>
+</text>
+<circle id="circle15" r="32.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="300.0" cy="700.0"/>
+<text x="300.0" y="700.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">TASK-SCHEDULING<tspan x="300.0" id="text25" y="715.0">15</tspan>
+</text>
+<circle id="circle15" r="30.4" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="380.0" cy="540.0"/>
+<text x="380.0" y="540.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GRID-COMPUTING<tspan x="380.0" id="text25" y="555.0">13</tspan>
+</text>
+<circle id="circle15" r="29.6" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="180.0" cy="60.0"/>
+<text x="180.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HOTSPOT-TARGETED-COOLING<tspan x="180.0" id="text25" y="75.0">12</tspan>
+</text>
+<circle id="circle15" r="27.2" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="340.0" cy="220.0"/>
+<text x="340.0" y="220.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENVIRONMENTAL-PERFORMANCE<tspan x="340.0" id="text25" y="235.0">9</tspan>
+</text>
+<circle id="circle15" r="27.2" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="220.0" cy="620.0"/>
+<text x="220.0" y="620.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">RENEWABLE-ENERGY<tspan x="220.0" id="text25" y="635.0">9</tspan>
+</text>
+<circle id="circle15" r="25.6" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="460.0" cy="340.0"/>
+<text x="460.0" y="340.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">RESPONSE-TIME<tspan x="460.0" id="text25" y="355.0">7</tspan>
+</text>
+<circle id="circle15" r="24.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="140.0" cy="380.0"/>
+<text x="140.0" y="380.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENERGY-PROPORTIONAL-COMPUTING<tspan x="140.0" id="text25" y="395.0">5</tspan>
+</text>
+<circle id="circle15" r="23.2" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="260.0" cy="180.0"/>
+<text x="260.0" y="180.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CONTINUOUS-CONNECTIVITY<tspan x="260.0" id="text25" y="195.0">4</tspan>
+</text>
+<circle id="circle15" r="21.6" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="100.0" cy="100.0"/>
+<text x="100.0" y="100.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WEARABLE-COMPUTING<tspan x="100.0" id="text25" y="115.0">2</tspan>
+</text>
+</svg>
+
