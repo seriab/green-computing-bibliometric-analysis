@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="630" zoomAndPan="magnify" contentStyleType="text/css" height="1109" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<circle fill="url(#sphereTheme)" r="20.07334877518074" cx="30" cy="30"/>
+<text x="50.07334877518074" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-SYSTEMS</text>
+<circle fill="url(#sphereTheme)" r="7.361900751035305" cx="30" cy="95"/>
+<text x="37.36190075103531" y="95" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ENVIRONMENTAL-SUSTAINABILITY</text>
+<circle fill="url(#sphereTheme)" r="28.15926159893311" cx="30" cy="160"/>
+<text x="58.159261598933114" y="160" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CLOUD-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="8.04625535200393" cx="30" cy="225"/>
+<text x="38.04625535200393" y="225" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">POWER-AWARE-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="11.71544886642802" cx="30" cy="290"/>
+<text x="41.71544886642802" y="290" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-COMMUNICATION-TECHNOLOGY</text>
+<circle fill="url(#sphereTheme)" r="8.909595002456658" cx="30" cy="355"/>
+<text x="38.909595002456655" y="355" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">POWER-MANAGEMENT</text>
+<circle fill="url(#sphereTheme)" r="8.879764160875974" cx="30" cy="420"/>
+<text x="38.87976416087597" y="420" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">POWER-CONSUMPTION</text>
+<circle fill="url(#sphereTheme)" r="6.259914367937109" cx="30" cy="485"/>
+<text x="36.25991436793711" y="485" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">HOTSPOT-TARGETED-COOLING</text>
+<circle fill="url(#sphereTheme)" r="7.542640555906507" cx="30" cy="550"/>
+<text x="37.54264055590651" y="550" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-DATA-CENTER</text>
+<circle fill="url(#sphereTheme)" r="7.203972766196392" cx="30" cy="615"/>
+<text x="37.203972766196394" y="615" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TASK-SCHEDULING</text>
+<circle fill="url(#sphereTheme)" r="6.824945602583" cx="30" cy="680"/>
+<text x="36.824945602583" y="680" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ENVIRONMENTAL-PERFORMANCE</text>
+<circle fill="url(#sphereTheme)" r="7.823401417842353" cx="30" cy="745"/>
+<text x="37.823401417842355" y="745" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GRID-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="5.1824945602583" cx="30" cy="810"/>
+<text x="35.1824945602583" y="810" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">WEARABLE-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="5.2351372218712715" cx="30" cy="875"/>
+<text x="35.23513722187127" y="875" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CONTINUOUS-CONNECTIVITY</text>
+<circle fill="url(#sphereTheme)" r="5.210570646451885" cx="30" cy="940"/>
+<text x="35.210570646451885" y="940" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ENERGY-PROPORTIONAL-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="5.479048220678037" cx="30" cy="1005"/>
+<text x="35.47904822067804" y="1005" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">RESPONSE-TIME</text>
+<circle fill="url(#sphereTheme)" r="6.754755387099038" cx="30" cy="1070"/>
+<text x="36.75475538709904" y="1070" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">RENEWABLE-ENERGY</text>
+<circle fill="url(#sphereTheme)" r="17.979925598371587" cx="240" cy="30"/>
+<text x="257.9799255983716" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">POWER-AWARE-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="11.783884326524882" cx="240" cy="91"/>
+<text x="251.78388432652488" y="91" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-SYSTEMS</text>
+<circle fill="url(#sphereTheme)" r="30.0" cx="240" cy="152"/>
+<text x="270.0" y="152" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">VIRTUAL-MACHINES</text>
+<circle fill="url(#sphereTheme)" r="7.342598441777216" cx="240" cy="213"/>
+<text x="247.34259844177723" y="213" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TASK-SCHEDULING</text>
+<circle fill="url(#sphereTheme)" r="15.904049975433425" cx="240" cy="274"/>
+<text x="255.90404997543342" y="274" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ENERGY-EFFICIENT-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="11.425914227556678" cx="240" cy="335"/>
+<text x="251.4259142275567" y="335" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-COMMUNICATION-TECHNOLOGY</text>
+<circle fill="url(#sphereTheme)" r="9.465852460167053" cx="240" cy="396"/>
+<text x="249.46585246016704" y="396" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">IOT</text>
+<circle fill="url(#sphereTheme)" r="29.401628412999226" cx="240" cy="457"/>
+<text x="269.40162841299923" y="457" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="12.896399241945673" cx="240" cy="518"/>
+<text x="252.8963992419457" y="518" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-DATA-CENTER</text>
+<circle fill="url(#sphereTheme)" r="9.974731522425774" cx="240" cy="579"/>
+<text x="249.97473152242577" y="579" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DYNAMIC-VOLTAGE-AND-FREQUENCY-SCALING</text>
+<circle fill="url(#sphereTheme)" r="6.781076717905524" cx="240" cy="640"/>
+<text x="246.78107671790553" y="640" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ECO-INNOVATION</text>
+<circle fill="url(#sphereTheme)" r="6.689829437776374" cx="240" cy="701"/>
+<text x="246.68982943777638" y="701" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-SOFTWARE</text>
+<circle fill="url(#sphereTheme)" r="18.04836105846845" cx="240" cy="762"/>
+<text x="258.04836105846846" y="762" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MOBILE-EDGE-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="6.97059029971222" cx="240" cy="823"/>
+<text x="246.97059029971223" y="823" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">NEURAL-NETWORKS</text>
+<circle fill="url(#sphereTheme)" r="5.21934442338738" cx="240" cy="884"/>
+<text x="245.21934442338738" y="884" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MATURITY-MODEL</text>
+<circle fill="url(#sphereTheme)" r="6.867059731873377" cx="240" cy="945"/>
+<text x="246.86705973187338" y="945" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">PRIVACY</text>
+<circle fill="url(#sphereTheme)" r="5.6773355794202285" cx="240" cy="1006"/>
+<text x="245.67733557942023" y="1006" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">EVOLUTIONARY-ALGORITHMS</text>
+<circle fill="url(#sphereTheme)" r="6.110760160033691" cx="240" cy="1067"/>
+<text x="246.1107601600337" y="1067" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GENETIC-ALGORITHM</text>
+<line y2="91.0" stroke-width="1.25" x1="50.07334877518074" x2="228.21611567347512" stroke="black" y1="30.0"/>
+<line x1="50.07334877518074" x2="228.5740857724433" y1="30.0" style="stroke-dasharray: 9, 5" y2="335.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="50.07334877518074" x2="233.21892328209447" y1="30.0" style="stroke-dasharray: 9, 5" y2="640.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line y2="91.0" stroke-width="1.25" x1="37.36190075103531" x2="228.21611567347512" stroke="black" y1="95.0"/>
+<line x1="58.159261598933114" x2="222.02007440162842" y1="160.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="152.0" stroke-width="2.916666666666667" x1="58.159261598933114" x2="210.0" stroke="black" y1="160.0"/>
+<line y2="457.0" stroke-width="0.41666666666666663" x1="58.159261598933114" x2="210.59837158700077" stroke="black" y1="160.0"/>
+<line x1="58.159261598933114" x2="227.1036007580543" y1="160.0" style="stroke-dasharray: 9, 5" y2="518.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="1067.0" stroke-width="1.6666666666666665" x1="58.159261598933114" x2="233.8892398399663" stroke="black" y1="160.0"/>
+<line y2="30.0" stroke-width="1.25" x1="38.04625535200393" x2="222.02007440162842" stroke="black" y1="225.0"/>
+<line x1="41.71544886642802" x2="228.21611567347512" y1="290.0" style="stroke-dasharray: 9, 5" y2="91.0" stroke="black" stroke-width="0.4545454545454546"/>
+<line y2="335.0" stroke-width="0.9090909090909092" x1="41.71544886642802" x2="228.5740857724433" stroke="black" y1="290.0"/>
+<line x1="41.71544886642802" x2="233.21892328209447" y1="290.0" style="stroke-dasharray: 9, 5" y2="640.0" stroke="black" stroke-width="1.4285714285714284"/>
+<line y2="518.0" stroke-width="2.2222222222222223" x1="38.909595002456655" x2="227.1036007580543" stroke="black" y1="355.0"/>
+<line x1="38.909595002456655" x2="234.32266442057977" y1="355.0" style="stroke-dasharray: 9, 5" y2="1006.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="30.0" stroke-width="0.7142857142857142" x1="38.87976416087597" x2="222.02007440162842" stroke="black" y1="420.0"/>
+<line x1="38.87976416087597" x2="232.65740155822277" y1="420.0" style="stroke-dasharray: 9, 5" y2="213.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line x1="38.87976416087597" x2="210.59837158700077" y1="420.0" style="stroke-dasharray: 9, 5" y2="457.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line x1="38.87976416087597" x2="227.1036007580543" y1="420.0" style="stroke-dasharray: 9, 5" y2="518.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line y2="274.0" stroke-width="0.8333333333333333" x1="36.25991436793711" x2="224.09595002456658" stroke="black" y1="485.0"/>
+<line x1="37.54264055590651" x2="210.0" y1="550.0" style="stroke-dasharray: 9, 5" y2="152.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="37.54264055590651" x2="224.09595002456658" y1="550.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line y2="518.0" stroke-width="0.8333333333333333" x1="37.54264055590651" x2="227.1036007580543" stroke="black" y1="550.0"/>
+<line y2="213.0" stroke-width="1.0" x1="37.203972766196394" x2="232.65740155822277" stroke="black" y1="615.0"/>
+<line x1="37.203972766196394" x2="227.1036007580543" y1="615.0" style="stroke-dasharray: 9, 5" y2="518.0" stroke="black" stroke-width="1.0"/>
+<line y2="579.0" stroke-width="1.0" x1="37.203972766196394" x2="230.02526847757423" stroke="black" y1="615.0"/>
+<line y2="335.0" stroke-width="1.25" x1="36.824945602583" x2="228.5740857724433" stroke="black" y1="680.0"/>
+<line x1="37.823401417842355" x2="222.02007440162842" y1="745.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.25"/>
+<line x1="37.823401417842355" x2="210.59837158700077" y1="745.0" style="stroke-dasharray: 9, 5" y2="457.0" stroke="black" stroke-width="1.25"/>
+<line y2="579.0" stroke-width="1.25" x1="37.823401417842355" x2="230.02526847757423" stroke="black" y1="745.0"/>
+<line x1="35.47904822067804" x2="210.0" y1="1005.0" style="stroke-dasharray: 9, 5" y2="152.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="518.0" stroke-width="1.6666666666666665" x1="36.75475538709904" x2="227.1036007580543" stroke="black" y1="1070.0"/>
+<circle fill="url(#sphereTheme)" r="19.276689829437778" cx="450" cy="30"/>
+<text x="469.27668982943777" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CLOUD-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="9.25177230294097" cx="450" cy="91"/>
+<text x="459.251772302941" y="91" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-IT</text>
+<circle fill="url(#sphereTheme)" r="10.009826630167755" cx="450" cy="152"/>
+<text x="460.00982663016777" y="152" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">COMPUTATIONAL-MODELING</text>
+<circle fill="url(#sphereTheme)" r="14.26861795465712" cx="450" cy="213"/>
+<text x="464.26861795465715" y="213" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ARTIFICIAL-INTELLIGENCE</text>
+<circle fill="url(#sphereTheme)" r="10.759107180459043" cx="450" cy="274"/>
+<text x="460.75910718045907" y="274" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-PRODUCTS</text>
+<circle fill="url(#sphereTheme)" r="7.6619639222292415" cx="450" cy="335"/>
+<text x="457.66196392222923" y="335" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">COMPUTER-ARCHITECTURE</text>
+<circle fill="url(#sphereTheme)" r="10.190566435038956" cx="450" cy="396"/>
+<text x="460.19056643503893" y="396" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-COMMUNICATION-TECHNOLOGY</text>
+<circle fill="url(#sphereTheme)" r="7.544395311293606" cx="450" cy="457"/>
+<text x="457.5443953112936" y="457" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">RESOURCE-ALLOCATION</text>
+<circle fill="url(#sphereTheme)" r="7.872534568681126" cx="450" cy="518"/>
+<text x="457.87253456868115" y="518" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ENERGY-EFFICIENT-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="9.834351091457851" cx="450" cy="579"/>
+<text x="459.83435109145785" y="579" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">EFFICIENCY</text>
+<circle fill="url(#sphereTheme)" r="9.202639152102197" cx="450" cy="640"/>
+<text x="459.2026391521022" y="640" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DEEP-LEARNING</text>
+<circle fill="url(#sphereTheme)" r="8.697269600617673" cx="450" cy="701"/>
+<text x="458.6972696006177" y="701" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SECURITY</text>
+<circle fill="url(#sphereTheme)" r="7.937460518003791" cx="450" cy="762"/>
+<text x="457.9374605180038" y="762" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GREEN-DATA-CENTER</text>
+<circle fill="url(#sphereTheme)" r="6.691584193163473" cx="450" cy="823"/>
+<text x="456.69158419316346" y="823" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GENETIC-ALGORITHM</text>
+<circle fill="url(#sphereTheme)" r="6.473994525163192" cx="450" cy="884"/>
+<text x="456.4739945251632" y="884" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">LOGIC-GATES</text>
+<circle fill="url(#sphereTheme)" r="6.324840317259774" cx="450" cy="945"/>
+<text x="456.32484031725977" y="945" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">NEUROMORPHIC-COMPUTING</text>
+<circle fill="url(#sphereTheme)" r="5.952832175194778" cx="450" cy="1006"/>
+<text x="455.95283217519477" y="1006" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">EDGE</text>
+<circle fill="url(#sphereTheme)" r="5.393065206710185" cx="450" cy="1067"/>
+<text x="455.39306520671016" y="1067" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ESTIMATION</text>
+<line x1="257.9799255983716" x2="439.24089281954093" y1="30.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="457.0" stroke-width="0.41666666666666663" x1="257.9799255983716" x2="442.4556046887064" stroke="black" y1="30.0"/>
+<line x1="257.9799255983716" x2="441.3027303993823" y1="30.0" style="stroke-dasharray: 9, 5" y2="701.0" stroke="black" stroke-width="0.4545454545454546"/>
+<line y2="91.0" stroke-width="2.916666666666667" x1="251.78388432652488" x2="440.748227697059" stroke="black" y1="91.0"/>
+<line x1="251.78388432652488" x2="439.80943356496107" y1="91.0" style="stroke-dasharray: 9, 5" y2="396.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="30.0" stroke-width="2.5" x1="270.0" x2="430.72331017056223" stroke="black" y1="152.0"/>
+<line x1="270.0" x2="439.24089281954093" y1="152.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="270.0" x2="440.16564890854215" y1="152.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="30.0" stroke-width="0.41666666666666663" x1="247.34259844177723" x2="430.72331017056223" stroke="black" y1="213.0"/>
+<line x1="247.34259844177723" x2="439.99017336983223" y1="213.0" style="stroke-dasharray: 9, 5" y2="152.0" stroke="black" stroke-width="1.25"/>
+<line y2="274.0" stroke-width="0.41666666666666663" x1="247.34259844177723" x2="439.24089281954093" stroke="black" y1="213.0"/>
+<line x1="247.34259844177723" x2="440.16564890854215" y1="213.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="518.0" stroke-width="0.41666666666666663" x1="255.90404997543342" x2="442.12746543131885" stroke="black" y1="274.0"/>
+<line x1="255.90404997543342" x2="443.5260054748368" y1="274.0" style="stroke-dasharray: 9, 5" y2="884.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="251.4259142275567" x2="435.73138204534285" y1="335.0" style="stroke-dasharray: 9, 5" y2="213.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="251.4259142275567" x2="439.24089281954093" y1="335.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="396.0" stroke-width="1.25" x1="251.4259142275567" x2="439.80943356496107" stroke="black" y1="335.0"/>
+<line x1="251.4259142275567" x2="442.0625394819962" y1="335.0" style="stroke-dasharray: 9, 5" y2="762.0" stroke="black" stroke-width="0.5555555555555556"/>
+<line y2="152.0" stroke-width="0.8333333333333333" x1="249.46585246016704" x2="439.99017336983223" stroke="black" y1="396.0"/>
+<line x1="249.46585246016704" x2="435.73138204534285" y1="396.0" style="stroke-dasharray: 9, 5" y2="213.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="249.46585246016704" x2="439.24089281954093" y1="396.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="249.46585246016704" x2="442.33803607777077" y1="396.0" style="stroke-dasharray: 9, 5" y2="335.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="249.46585246016704" x2="443.5260054748368" y1="396.0" style="stroke-dasharray: 9, 5" y2="884.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="249.46585246016704" x2="444.04716782480523" y1="396.0" style="stroke-dasharray: 9, 5" y2="1006.0" stroke="black" stroke-width="1.25"/>
+<line y2="30.0" stroke-width="1.25" x1="269.40162841299923" x2="430.72331017056223" stroke="black" y1="457.0"/>
+<line x1="269.40162841299923" x2="442.4556046887064" y1="457.0" style="stroke-dasharray: 9, 5" y2="457.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="269.40162841299923" x2="442.12746543131885" y1="457.0" style="stroke-dasharray: 9, 5" y2="518.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="579.0" stroke-width="0.8333333333333333" x1="269.40162841299923" x2="440.16564890854215" stroke="black" y1="457.0"/>
+<line x1="269.40162841299923" x2="442.0625394819962" y1="457.0" style="stroke-dasharray: 9, 5" y2="762.0" stroke="black" stroke-width="0.5555555555555556"/>
+<line x1="252.8963992419457" x2="439.24089281954093" y1="518.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="252.8963992419457" x2="440.16564890854215" y1="518.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="252.8963992419457" x2="440.7973608478978" y1="518.0" style="stroke-dasharray: 9, 5" y2="640.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="762.0" stroke-width="1.1111111111111112" x1="252.8963992419457" x2="442.0625394819962" stroke="black" y1="518.0"/>
+<line x1="252.8963992419457" x2="443.30841580683654" y1="518.0" style="stroke-dasharray: 9, 5" y2="823.0" stroke="black" stroke-width="0.625"/>
+<line x1="249.97473152242577" x2="430.72331017056223" y1="579.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.5555555555555556"/>
+<line y2="518.0" stroke-width="0.5555555555555556" x1="249.97473152242577" x2="442.12746543131885" stroke="black" y1="579.0"/>
+<line x1="249.97473152242577" x2="443.30841580683654" y1="579.0" style="stroke-dasharray: 9, 5" y2="823.0" stroke="black" stroke-width="0.625"/>
+<line x1="246.78107671790553" x2="440.748227697059" y1="640.0" style="stroke-dasharray: 9, 5" y2="91.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line x1="246.68982943777638" x2="440.748227697059" y1="701.0" style="stroke-dasharray: 9, 5" y2="91.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line x1="246.68982943777638" x2="439.24089281954093" y1="701.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line x1="246.68982943777638" x2="441.3027303993823" y1="701.0" style="stroke-dasharray: 9, 5" y2="701.0" stroke="black" stroke-width="1.4285714285714284"/>
+<line y2="457.0" stroke-width="2.5" x1="258.04836105846846" x2="442.4556046887064" stroke="black" y1="762.0"/>
+<line y2="213.0" stroke-width="1.0" x1="246.97059029971223" x2="435.73138204534285" stroke="black" y1="823.0"/>
+<line y2="335.0" stroke-width="1.0" x1="246.97059029971223" x2="442.33803607777077" stroke="black" y1="823.0"/>
+<line y2="640.0" stroke-width="1.0" x1="246.97059029971223" x2="440.7973608478978" stroke="black" y1="823.0"/>
+<line x1="245.21934442338738" x2="440.748227697059" y1="884.0" style="stroke-dasharray: 9, 5" y2="91.0" stroke="black" stroke-width="1.25"/>
+<line y2="701.0" stroke-width="2.5" x1="246.86705973187338" x2="441.3027303993823" stroke="black" y1="945.0"/>
+<line x1="246.86705973187338" x2="442.0625394819962" y1="945.0" style="stroke-dasharray: 9, 5" y2="762.0" stroke="black" stroke-width="1.25"/>
+<line y2="823.0" stroke-width="3.333333333333333" x1="245.67733557942023" x2="443.30841580683654" stroke="black" y1="1006.0"/>
+<line x1="246.1107601600337" x2="441.3027303993823" y1="1067.0" style="stroke-dasharray: 9, 5" y2="701.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="823.0" stroke-width="3.333333333333333" x1="246.1107601600337" x2="443.30841580683654" stroke="black" y1="1067.0"/>
+</svg>
+
